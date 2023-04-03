@@ -1,0 +1,57 @@
+@import "../../styleVariables/colors.css";
+@import "../../styleVariables/fonts.css";
+
+.main {
+  display: inline-block;
+  flex-grow: 1;
+
+  overflow-y: auto;
+
+  background-color: transparent;
+}
+
+.title {
+  padding-top: 30px;
+
+  font-family: Raleway;
+  font-size: var(--font-size-header);
+  color: var(--color-font-header);
+}
+
+.grid {
+  display: flex;
+
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  margin-bottom: 40px;
+}
+
+.list {
+  padding: 10px;
+}
+
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  max-height: 90%;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  background-color: var(--color-background-primary);
+  border-radius: 5px;
+  box-shadow: 2px 2px 20px var(--color-font-paragraph);
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.5);
+}

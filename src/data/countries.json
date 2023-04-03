@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Poland",
+    "id": "pl"
+  },
+  {
+    "name": "United States",
+    "id": "us"
+  },
+  {
+    "name": "United Kingdom",
+    "id": "gb"
+  },
+  {
+    "name": "Australia",
+    "id": "au"
+  },
+  {
+    "name": "Canada",
+    "id": "ca"
+  },
+  {
+    "name": "Ireland",
+    "id": "ie"
+  }
+]

@@ -1,0 +1,56 @@
+.container {
+  position: relative;
+  padding: 20px 20px;
+
+  color: var(--color-font-paragraph);
+}
+.button {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+
+  font-weight: 700;
+  font-size: 20;
+  background: none;
+  border: none;
+  border-radius: 50%;
+  transition: 250ms ease;
+  transition-property: scale;
+}
+
+.button:hover {
+  color: var(--color-active);
+  scale: 1.2;
+}
+
+.title {
+  font-size: var(--font-size-big);
+  line-height: 20px;
+  color: var(--color-font-header);
+  margin-top: 0px;
+}
+
+.author {
+  font-size: var(--font-size-small);
+  margin-bottom: 5px;
+}
+
+.content {
+  font-size: var(--font-size-medium);
+}
+.source {
+  text-align: right;
+}
+
+.link {
+  font-size: var(--font-size-small);
+  color: var(--color-font-header);
+  text-decoration: none;
+}
+
+.link:hover {
+  color: var(--color-active);
+}

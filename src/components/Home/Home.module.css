@@ -1,0 +1,17 @@
+.main {
+  display: inline-block;
+  flex-grow: 1;
+  padding: 0 20px;
+
+  overflow-y: auto;
+
+  background-color: transparent;
+}
+
+.title {
+  padding-top: 30px;
+
+  font-family: Raleway;
+  font-size: var(--font-size-header);
+  color: var(--color-font-header);
+}

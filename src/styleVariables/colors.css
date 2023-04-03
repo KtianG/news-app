@@ -1,0 +1,15 @@
+:root {
+  --color-background-global: #fffffe;
+  --color-background-primary: #f9f4ef;
+  --color-background-secondary: #eaddcf;
+  --color-background-tertiary: #8c7851;
+
+  --color-font-header: #020826;
+  --color-font-paragraph: #716040;
+  --color-font-aside: #fffffe;
+
+  --color-active: #f25042;
+
+  --color-logo-primary: #020826;
+  --color-logo-secondary: #fffffe;
+}

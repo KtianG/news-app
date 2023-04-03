@@ -1,0 +1,50 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: var(--color-background-tertiary);
+  height: 60px;
+}
+
+.container {
+  display: flex;
+
+  max-width: 1280px;
+  width: 100%;
+  height: 100%;
+
+  justify-content: space-between;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 60px;
+  color: var(--color-logo-secondary);
+
+  margin: 0 auto;
+}
+
+.clock {
+  font-family: Roboto;
+  font-size: var(--font-size-header);
+}
+
+.info {
+  font-size: var(--font-size-small);
+  padding-right: 40px;
+}
+
+@media screen and (max-width: 600px) {
+  .clock {
+    padding-left: 20px;
+  }
+
+  .info {
+    padding-right: 10px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .clock {
+    width: 265px;
+  }
+}
