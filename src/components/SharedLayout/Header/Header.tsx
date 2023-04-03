@@ -19,7 +19,7 @@ export const Header: React.FC = () => {
         <Link className={css.link} to={`/Home`}>
           <div className={css.logo} data-testid="logo">
             <h2>
-              gn<span className={css.accent}>News</span>
+              g<span className={css.accent}>News</span>
             </h2>
           </div>
         </Link>
