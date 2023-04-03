@@ -26,7 +26,7 @@ export const MainContent: React.FC<Props> = ({ country, name }) => {
   const [news, setNews] = useState(0);
   const [modalState, setModalState] = useState(false);
 
-  const dummyArticle: Article = dummyArticles.pl[0];
+  const dummyArticle: Article = dummyArticles.us[0];
   const [currentArticle, setCurrentArticle] = useState(dummyArticle);
 
   const current_view = useSelector((state: RootState) => state.view);

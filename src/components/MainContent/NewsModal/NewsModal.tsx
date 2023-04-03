@@ -12,7 +12,7 @@ export const NewsModal: React.FC<Props> = ({ article, closeModal }) => {
         &#10005;
       </button>
 
-      <p className={css.author}>{article.author}</p>
+      <p className={css.author}>{article.source.name}</p>
       <h2 className={css.title}>{article.title}</h2>
 
       <p className={css.content}>

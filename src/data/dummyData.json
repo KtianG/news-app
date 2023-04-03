@@ -1,264 +1,109 @@
 {
   "us": [
     {
+      "title": "McDonald’s closes offices ahead of layoffs",
+      "description": "Employees were told to stay away from the office while announcements go out about which of them will be laid off.",
+      "content": "Stay out of the office while we decide if you’re coming back.\nThat was the message McDonald’s has given its corporate employees, including those at its Chicago headquarters. The fast-food giant has temporarily shuttered office sites in the U.S. as it... [3562 chars]",
+      "url": "https://chicago.suntimes.com/business/2023/4/3/23667900/mcdonalds-layoffs-offices-closed",
+      "image": "https://cst.brightspotcdn.com/dims4/default/27a078c/2147483647/strip/true/crop/4032x2302+0+361/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2F18WPqxi2xnGpKSaCA9qkWXAMvqw%3D%2F0x0%3A4032x3024%2F4032x3024%2Ffilters%3Afocal%282016x1512%3A2017x1513%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24557720%2Fmcddoor1.jpg",
+      "publishedAt": "2023-04-03T19:03:00Z",
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Matthew Cappucci",
-      "title": "South faces more severe storms, flooding after Friday's violent tornadoes - The Washington Post",
-      "description": "The severe weather threat should ease by midweek before another storm could cause problems in the central states by Friday.",
-      "url": "https://www.washingtonpost.com/weather/2023/03/27/south-severe-storms-tornadoes-flooding/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-26-2023/t_53fd468520dc44b1ba97ea6218cd77ab_name_miss_drone_grab.jpg&w=1440",
-      "publishedAt": "2023-03-27T20:33:42Z",
-      "content": "Comment on this story\r\nDangerous storms have erupted across the South daily since Fridays deadly outbreak of twisters, and the siege of severe weather is not yet over. Intense thunderstorms and areas… [+6177 chars]"
+        "name": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com"
+      }
     },
     {
+      "title": "Starbucks Fires Union Organizer Days After Senate Grilling.",
+      "description": "Howard Schultz told lawmakers Starbucks was not a “union-busting” company. Two days later, they fired Lexi Rizzo, allegedly for being late.",
+      "content": "Starbucks fired a long-time union organizer only two days after Howard Schultz, the billionaire former CEO, was grilled at a Senate committee hearing over the company’s illegal union-busting campaign.\nLexi Rizzo led the campaign at a Starbucks in Buf... [1872 chars]",
+      "url": "https://www.thedailybeast.com/starbucks-fires-union-organizer-lexi-rizzo-days-after-howard-schultz-senate-grilling",
+      "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_800,w_1422,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1680547621/Screenshot_2023-04-03_at_2.46.00_PM_uo9ac9",
+      "publishedAt": "2023-04-03T18:59:47Z",
       "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Tanaya Macheel, Alex Harring",
-      "title": "Dow closes nearly 200 points higher, S&P 500 notches third straight advance as bank shares jump: Live updates - CNBC",
-      "description": "Regional banks rose broadly, led by a surge in First Republic shares.",
-      "url": "https://www.cnbc.com/2023/03/26/stock-futures-are-up-slightly-as-wall-street-looks-to-build-on-winning-week.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107215866-1679948522957-aa3_img_100_99_112_1877665_1000-1679948384388.jpg?v=1679948648&w=1920&h=1080",
-      "publishedAt": "2023-03-27T20:29:00Z",
-      "content": "The Dow Jones Industrial Average rose Monday, building on last week's gains, as investors attempted to move on from the crisis that broke out in the regional bank sector earlier this month following … [+2766 chars]"
+        "name": "The Daily Beast",
+        "url": "https://www.thedailybeast.com"
+      }
     },
     {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "USA TODAY",
-      "title": "Ukraine updates: US not altering course over Putin's nuclear plans - USA TODAY",
-      "description": "Russian President Vladimir Putin's latest nuclear saber-rattling has not prompted the U.S. to alter its strategic stance, the White House said Monday.",
-      "url": "https://www.usatoday.com/story/news/world/2023/03/27/ukraine-russia-war-live-updates/11548696002/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/27/USAT/4a510891-cd0e-48d1-8a20-8855c6b1a893-AP_Russia_Ukraine_War_Monastery.jpg?auto=webp&crop=8293,4665,x0,y389&format=pjpg&width=1200",
-      "publishedAt": "2023-03-27T19:18:45Z",
-      "content": "Russian President Vladimir Putin's latest nuclear saber-rattling has not prompted the U.S. to alter its strategic stance, the White House said Monday.\r\nPutin announced plans Saturday to station tacti… [+6181 chars]"
+      "title": "Nashville school shooter fired 152 rounds during the attack, which was planned 'over a period of months,' police say",
+      "description": "The 28-year-old who killed three children and three adults at a Christian school in Nashville last week fired 152 rounds, Nashville police said Monday, adding that while they have yet to determine a motive, the shooter planned the attack \"over a period of months\" and studied other mass murderers.",
+      "content": "CNN —\nThe 28-year-old who killed three children and three adults at a Christian school in Nashville last week fired 152 rounds, Nashville police said Monday, adding that while they have yet to determine a motive, the shooter planned the attack “over ... [2300 chars]",
+      "url": "https://www.cnn.com/2023/04/03/us/covenant-school-shooting-nashville-tennessee-monday/index.html",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230403082448-covenant-school-memorial-file-restricted-033123.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-04-03T18:59:00Z",
+      "source": { "name": "CNN", "url": "https://www.cnn.com" }
     },
     {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Amudalat Ajasa",
-      "title": "Philadelphia water safe to drink, officials say, after chemical spill - The Washington Post",
-      "description": "Philadelphia residents are told it is safe to drink tap water after thousands of gallons of acrylic paint chemicals spilled into a Delaware River tributary.",
-      "url": "https://www.washingtonpost.com/climate-environment/2023/03/27/chemical-spill-philadelphia-drinking-water/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JZEQNNRXAJFDBIR7PRV4YT3RYQ_size-normalized.jpg&w=1440",
-      "publishedAt": "2023-03-27T19:11:14Z",
-      "content": "Comment on this story\r\nA day after Philadelphia residents flocked to grocery stores to stock up on water bottles, city leaders worked to assure residents their tap water was safe on Monday at least f… [+4056 chars]"
+      "title": "Trump campaign raised $7 million since indictment",
+      "description": "The reported sum came as Trump was en route to New York City ahead of his expected arrest and arraignment.",
+      "content": "Former US President Donald Trump sits in the rear of his limousine as he departs Trump International Golf Club in West Palm Beach, Florida, on April 1, 2023.\nFormer President Donald Trump's 2024 campaign raised $7 million in the days after his indict... [1912 chars]",
+      "url": "https://www.cnbc.com/2023/04/03/trump-campaign-raised-7-million-since-indictment.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107218999-1680449989559-gettyimages-1250372624-AFP_33CH279.jpeg?v=1680548009&w=1920&h=1080",
+      "publishedAt": "2023-04-03T18:53:29Z",
+      "source": { "name": "CNBC", "url": "https://www.cnbc.com" }
     },
     {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "John Timmer",
-      "title": "Webb Telescope confirms nearby rocky planet has no significant atmosphere - Ars Technica",
-      "description": "A close look at one of TRAPPIST-1's planets shows it's bare and baking.",
-      "url": "https://arstechnica.com/science/2023/03/webb-telescope-is-sensitive-enough-to-detect-a-star-eclipse-a-planet/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/image-5-760x380.jpeg",
-      "publishedAt": "2023-03-27T19:10:27Z",
-      "content": "Enlarge/ An illustration of what the inner portion of the TRAPPIST-1 system might look like. \r\n8 with \r\nAt this point, we've discovered lots of exoplanets that fall under the general label \"Earth-lik… [+2876 chars]"
+      "title": "Drake taunts Kanye West with Kim Kardashian sample in new song",
+      "description": "Drake appears to be taunting Kanye West by sampling audio of Kim Kardashian talking about the former couple's divorce in his new song \"Rescue Me.\"",
+      "content": "Click to email a link to a friend (Opens in new window)\nClick to share on Twitter (Opens in new window)\nClick to share on Facebook (Opens in new window)\nDrake is about to reignite his long-standing feud with Kanye West.\nThe Toronto-born rapper teased... [2271 chars]",
+      "url": "https://pagesix.com/2023/04/03/drake-taunts-kanye-west-with-kim-kardashian-sample-in-new-song/",
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2023/04/NYPICHPDPICT000009173286.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2023-04-03T18:36:00Z",
+      "source": { "name": "Page Six", "url": "https://pagesix.com" }
     },
     {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "",
-      "title": "Lamar Jackson trade request starts drama for Dolphins player after he tries to recruit the QB to Miami - CBS Sports",
-      "description": "Miami fans were not amused by one Dolphins player's tweet",
-      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-trade-request-starts-drama-for-dolphins-player-after-he-tries-to-recruit-the-qb-to-miami/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/05/30/77848bce-ea10-473e-b092-16bc98e67deb/thumbnail/1200x675/fbb2d15d8a1b898838b8a2d4c2067788/dolphins-helmet-getty.jpg",
-      "publishedAt": "2023-03-27T18:56:25Z",
-      "content": "DeShon Elliott hasn't even been with the Dolphins for two weeks and he might already be the least popular player on the team. \r\nThe safety saw his popularity crash with Dolphins fans on Monday after … [+1451 chars]"
+      "title": "Vanderpump Rules",
+      "description": "The Vanderpump Rules Season 10 reunion looks are here! See every jaw-dropping outfit.",
+      "content": "This season of Vanderpump Rules has been — and will continue to be — next-level dramatic (watch the video above for proof). So when the cast members came together to hash it all out during the Season 10 reunion, naturally, they brought their fashion ... [1694 chars]",
+      "url": "https://www.bravotv.com/vanderpump-rules/style-living/vanderpump-rules-season-10-reunion-spoilers-fashion-outfit-details",
+      "image": "https://www.bravotv.com/sites/bravo/files/2023/03/vanderpump-rules-10-reunion-looks.jpg",
+      "publishedAt": "2023-04-03T18:31:01Z",
+      "source": { "name": "Bravo", "url": "https://www.bravotv.com" }
     },
     {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "LIVE: Nashville school shooting police update 5pm ET: 6 dead in horrific rampage shooting - LiveNOW from FOX",
-      "description": "First responders in Tennessee are on the scene of a school shooting at a Nashville elementary school.Three students and three adults were killed in the attac...",
-      "url": "https://www.youtube.com/watch?v=xmNJxiJC_Zw",
-      "urlToImage": "https://i.ytimg.com/vi/xmNJxiJC_Zw/maxresdefault_live.jpg",
-      "publishedAt": "2023-03-27T18:51:37Z",
-      "content": null
+      "title": "2 construction workers killed in trench collapse at JFK Airport",
+      "description": "Two construction workers were killed in a trench collapse at JFK Airport.",
+      "content": "Two construction workers were killed in a trench collapse Monday at JFK Airport.\nNEW YORK CITY (WABC) -- Two construction workers were killed in a trench collapse at JFK Airport on Monday morning.\nEmergency workers attempted to rescue the workers fro... [1154 chars]",
+      "url": "https://abc7ny.com/trench-rescue-jfk-airport-construction-workers-trapped/13078622/",
+      "image": "https://cdn.abcotvs.com/dip/images/13078624_040323-wabc-trench-rescue-jfk-img.jpg?w=1600",
+      "publishedAt": "2023-04-03T18:00:14Z",
+      "source": { "name": "WABC-TV", "url": "https://abc7ny.com" }
     },
     {
+      "title": "As Trump Heads to New York, Adams Warns Protesters to Behave",
+      "description": "The mayor told protesters that the city “is always ready” ahead of the arrival on Monday of Donald J. Trump, the first ex-president to be indicted.",
+      "content": "As Donald J. Trump was taken by a motorcade from his Florida estate to a New York-bound plane to face his arraignment, Mayor Eric Adams warned Mr. Trump’s supporters to behave themselves at protests and rallies.\nThe mayor singled out Representative M... [652 chars]",
+      "url": "https://www.nytimes.com/2023/04/03/nyregion/adams-trump-nyc.html",
+      "image": "https://static01.nyt.com/images/2023/04/03/multimedia/03ny-trump-qwtp/03ny-trump-qwtp-facebookJumbo.jpg",
+      "publishedAt": "2023-04-03T17:46:26Z",
       "source": {
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "author": "Sage D. Young",
-      "title": "Binance Depositors Flee Following CFTC Charges, On-Chain Data Shows - CoinDesk",
-      "description": "Crypto users have withdrawn roughly $400 million on Ethereum from Binance in the past 24 hours, while Paxos, issuer of the Binance USD, has burned more than $155 million BUSD in the past four hours.",
-      "url": "https://www.coindesk.com/business/2023/03/27/binance-depositors-flee-following-cftc-charges-on-chain-data-shows/",
-      "urlToImage": "https://www.coindesk.com/resizer/_JMQjkv_Qj4FJbux0Mvr7GqEDjQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JMCNRJNV6VBJLPNEY7BYUDIZJE.jpg",
-      "publishedAt": "2023-03-27T18:50:00Z",
-      "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+538 chars]"
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com"
+      }
     },
     {
+      "title": "Millions on Medicaid May Soon Lose Coverage as Pandemic Protections End",
+      "description": "A requirement that states keep people on Medicaid during the coronavirus pandemic has come to an end, and 15 million people could lose their coverage as a result.",
+      "content": "The speed and mechanics of what Ms. Marshall and state and federal health officials are calling the “unwinding” will vary by state. A majority of them plan to take 12 to 14 months to complete the eligibility verifications, with many states beginning ... [1210 chars]",
+      "url": "https://www.nytimes.com/2023/04/03/us/politics/medicaid-enrollment-pandemic.html",
+      "image": "https://static01.nyt.com/images/2023/03/30/multimedia/00dc-medicaid-01-hqwk/00dc-medicaid-01-hqwk-facebookJumbo.jpg",
+      "publishedAt": "2023-04-03T17:41:09Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Kristina Sgueglia",
-      "title": "Actor Jonathan Majors arraigned on several assault and harassment charges - CNN",
-      "description": "Actor Jonathan Majors was arraigned on several assault and harassment charges Sunday, the Manhattan DA's office tells CNN.",
-      "url": "https://www.cnn.com/2023/03/27/entertainment/jonathan-majors-arraigned/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230327142535-jonathan-majors-file-0215.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-03-27T18:39:00Z",
-      "content": "Actor Jonathan Majors was arraigned on several assault and harassment charges Sunday, the Manhattan DAs office tells CNN.\r\nThe complaint does not name the female accuser but claims the defendant did … [+1555 chars]"
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com"
+      }
     },
     {
+      "title": "The Hollywood Reporter",
+      "description": "'Moana' is coming to live action. Disney is teaming with Dwayne Johnson, who will produce and reprise his role from the animated movie.",
+      "content": "Disney is setting sail with Moana once again, this time in vibrant live action. The studio has teamed with Dwayne Johnson to develop a live-action remake of its 2016 animated musical sensation.\nJohnson plans to return to the role of Maui, the grandio... [3233 chars]",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/moana-live-action-remake-in-the-works-disney-1235332204/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/11/moana_clean.jpg?w=960",
+      "publishedAt": "2023-04-03T17:20:38Z",
       "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Josh Christenson",
-      "title": "VP Kamala Harris repeats herself again on first stop of Africa trip - New York Post ",
-      "description": "Vice President Kamala Harris kept up her run of ponderous, head-scratching statements Monday on the first stop of a week-long trip to Africa.",
-      "url": "https://nypost.com/2023/03/27/vice-president-kamala-harris-repeats-herself-again-in-africa/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008847858.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2023-03-27T18:26:00Z",
-      "content": "It’s a case of déjà “Veep.”\r\nVice President Kamala Harris kept up her run of ponderous, head-scratching statements Monday on the first stop of a week-long trip to Africa, where the US is trying to he… [+3253 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "The first round of Disney layoffs begins this week, CEO Bob Iger shares in memo - TechCrunch",
-      "description": "Disney CEO Bob Iger revealed that there will be three rounds of layoffs, with the first beginning this week.",
-      "url": "https://techcrunch.com/2023/03/27/disney-layoffs-2023-ceo-bob-iger-memo/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1147203680.jpg?resize=1200,773",
-      "publishedAt": "2023-03-27T18:10:18Z",
-      "content": "In February, Disney CEO Bob Iger told shareholders in an earnings call that the company plans to lay off 7,000 employees as part of a significant restructuring. Today, in an internal memo to employee… [+2470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "author": "Mike Vulpo",
-      "title": "Backstreet Boys' AJ McLean and Wife Rochelle Separating After Nearly 12 Years of Marriage - E! NEWS",
-      "description": "The Backstreet Boys singer AJ McLean and his wife Rochelle Karidis are temporarily pausing their marriage after tying the knot in 2011. Read their joint statement on the decision.",
-      "url": "https://www.eonline.com/news/1283258/backstreet-boys-aj-mclean-and-wife-rochelle-separating-after-nearly-12-years-of-marriage",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021524/rs_1200x1200-210624124954-1200-AJ-McLean-Rochelle-McLean.ct.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "publishedAt": "2023-03-27T18:04:00Z",
-      "content": "AJ McLean and Rochelle DeAnna McLean are not playing games when it comes to their relationship.\r\nAnd because of that, the Backstreet Boys singer and his wife of more than a decade have decided to sep… [+680 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Cut"
-      },
-      "author": "Danielle Cohen",
-      "title": "Succession's Least Functional Couple Is No More - The Cut",
-      "description": "The fourth and final season of Succession kicked off on Sunday. Of all the deeply dysfunctional relationships  unraveling this season, one imminent (and maybe inevitable?) divorce stands tall.",
-      "url": "http://www.thecut.com/2023/03/succession-divorce-tom-shiv-season-4-premiere.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/d4b/bd4/abab17ba1e9ab95ee0593ee056656937e9-test-1.1x.rsocial.w1200.jpg",
-      "publishedAt": "2023-03-27T18:03:36Z",
-      "content": "The fourth and final season of Successionkicked off on Sunday, and by all appearances, things are unraveling faster than ever especially in the romance department. (Spoilers ahead for the season prem… [+3825 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Scientists discover water inside tiny beads of glass on moon - Al Jazeera English",
-      "description": "Analysis of lunar soil samples shows spheres of glass hold water inside them, scientists have said.",
-      "url": "https://www.aljazeera.com/news/2023/3/27/scientists-find-water-inside-glass-beads-scattered-across-moon",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/33AE7T4-highres.jpg?resize=1920%2C1440",
-      "publishedAt": "2023-03-27T17:58:42Z",
-      "content": "Scientists say they have discovered water trapped inside tiny beads of glass scattered across the moon, suggesting a potential reservoir of this precious resource for future human activities on the l… [+2962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBC New York"
-      },
-      "author": "NBC New York",
-      "title": "NYPD Drops All Cops in Uniform Order as Trump Grand Jury Gets Potential Witness Monday - NBC New York",
-      "description": "Will they indict Donald Trump? Alvin Bragg walked into his Manhattan office this morning without comment. Here's the latest Trump update.",
-      "url": "https://www.nbcnewyork.com/news/local/trump-grand-jury-expected-to-hear-witness-today-in-hush-money-case-source-says/4184965/",
-      "urlToImage": "https://media.nbcnewyork.com/2023/03/GettyImages-1249139547.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2023-03-27T17:51:57Z",
-      "content": "<ul><li>All eyes have been on Manhattan District Attorney Alvin Bragg regarding a potential Donald Trump indictment; the grand jury that's been hearing the hush money case hasn't met on that matter i… [+5898 chars]"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Alex Gurley",
-      "title": "Harry Styles Crushes On Emily Ratajkowski In Interview - BuzzFeed",
-      "description": "Harry and Emily were spotted making out in Tokyo.",
-      "url": "https://www.buzzfeed.com/alexgurley/harry-styles-emily-ratajkowski-celebrity-crush",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-03/27/17/enhanced/5440cdd28850/original-1715-1679937157-3.jpg?crop=1243:650;0,179%26downsize=1250:*",
-      "publishedAt": "2023-03-27T17:43:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple Releases iOS 16.4 With New Emoji, Safari Web Push Notifications, Beta Changes, Voice Isolation for Calls and More - MacRumors",
-      "description": "Apple today released iOS 16.4, the fourth major update to the iOS 16 operating system that initially came out last September. iOS 16.4 comes two...",
-      "url": "https://www.macrumors.com/2023/03/27/apple-releases-ios-16-4/",
-      "urlToImage": "https://images.macrumors.com/t/mt1kwn7UjOEMNYSkdncH_m6xVjw=/2500x/article-new/2023/01/iOS-16.4-Feature-Blue.jpg",
-      "publishedAt": "2023-03-27T17:03:05Z",
-      "content": "Apple today released iOS 16.4, the fourth major update to the iOS 16 operating system that initially came out last September. iOS 16.4 comes two months after the launch of iOS 16.3, an update that ad… [+2007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ESPN"
-      },
-      "author": "Rich Cimini",
-      "title": "Robert Saleh sure Aaron Rodgers will be Jet; OBJ on radar, too - ESPN",
-      "description": "Robert Saleh remains \"confident\" that Aaron Rodgers will be the Jets' quarterback for the 2023 season, and he'd love to see Odell Beckham Jr. catching some of Rodgers' passes.",
-      "url": "https://www.espn.com/nfl/story/_/id/35969312/robert-saleh-sure-aaron-rodgers-jet-obj-radar-too",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0327%2Fr1150720_1296x729_16%2D9.jpg",
-      "publishedAt": "2023-03-27T16:43:33Z",
-      "content": "PHOENIX -- New York Jets coach Robert Saleh remains \"confident\" that Aaron Rodgers will be his quarterback for the 2023 season, and he'd love to see Odell Beckham Jr. catching some of Rodgers' passes… [+3928 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Amir Tal, Rob Picheta",
-      "title": "Israel judicial overhaul plans delayed amid huge protests, says Ben Gvir's Jewish Power party - CNN",
-      "description": "Benjamin Netanyahu's controversial plans to weaken Israel's judiciary will be put on hold after widespread strikes and protests drove the country to a standstill, the party of National Security Minister Itamar Ben Gvir announced Monday.",
-      "url": "https://www.cnn.com/2023/03/27/middleeast/israel-judicial-overhaul-protests-intl/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230327145215-01-israel-protest-gallery.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-03-27T16:35:00Z",
-      "content": "Benjamin Netanyahus controversial plans to weaken Israels judiciary will be put on hold after widespread strikes and protests drove the country to a standstill, the party of National Security Ministe… [+2461 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "Engadget",
-      "title": "Microsoft's redesigned Teams app is faster and less of a memory hog | Engadget - Engadget",
-      "description": "The redesigned Teams is twice as fast at launching and starting video chats..",
-      "url": "https://www.engadget.com/microsofts-redesigned-teams-app-is-faster-and-less-of-a-memory-hog-162949623.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/SKZ6QxhnxjLonbGwLZPGgw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/8d430870-ccb9-11ed-9bcb-06da837444fe.cf.jpg",
-      "publishedAt": "2023-03-27T16:31:08Z",
-      "content": "Microsoft is overhauling Teams to make it faster and easier to use. In a blog post\r\n published Monday, the company said Teams users can look forward to a redesigned app that is up to two times faster… [+2148 chars]"
+        "name": "Hollywood Reporter",
+        "url": "https://www.hollywoodreporter.com"
+      }
     }
   ],
   "pl": [
@@ -525,1050 +370,415 @@
   ],
   "gb": [
     {
+      "title": "Former chancellor dies aged 91",
+      "description": "Lord Lawson served in the Cabinet of Margaret Thatcher from 1981 to 1989",
+      "content": "Nigel Lawson, the tax-slashing chancellor under Margaret Thatcher and one of the titans of British politics in the 1980s, has died at the age of 91.\nLord Lawson headed up the Treasury under Mrs Thatcher from 1983 to 1989, playing a leading role in he... [2944 chars]",
+      "url": "https://www.telegraph.co.uk/politics/2023/04/03/nigel-lawson-died-conservative-mp/",
+      "image": "https://www.telegraph.co.uk/content/dam/politics/2023/04/03/TELEMMGLPICT000000674525_trans_NvBQzQNjv4BqdO65i-mj--CxKe4HwQFNeRcfSI6dlxc0VDfiMWTAIeM.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2023-04-03T19:50:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Financial Times",
-      "title": "French pension protests attract smaller crowds - Financial Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzgzODc5Yzc1LTc0ZWQtNDNlZC05YzQwLTZiZTk2OGNjOTc4ONIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T21:45:02Z",
-      "content": null
+        "name": "The Telegraph",
+        "url": "https://www.telegraph.co.uk"
+      }
     },
     {
+      "title": "Everton vs Tottenham LIVE: Latest score as Harry Kane has effort cleared off the line",
+      "description": "LIVE: Follow all the action right here as Cristian Stellini's Tottenham side travel to Goodison Park to take on Everton in the Premier League",
+      "content": "Hello and welcome to live coverage of Tottenham's Premier League clash against Everton.\nFollowing Antonio Conte's exit as Spurs head coach just over a week ago, Cristian Stellini will take charge of the Spurs team for the first time since becoming ac... [679 chars]",
+      "url": "https://www.football.london/tottenham-hotspur-fc/fixtures-results/everton-tottenham-live-goal-updates-26618486",
+      "image": "https://i2-prod.football.london/incoming/article26618441.ece/ALTERNATES/s1200/0_Everton-vs-Tot.png",
+      "publishedAt": "2023-04-03T19:07:30Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Sky Sports",
-      "title": "Bukayo Saka: Arsenal winger's consistency is rare but he has lots of room to improve, says Mikel Arteta - Sky Sports",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTEwOTUvMTI4NDQ0NzYvYnVrYXlvLXNha2EtYXJzZW5hbC13aW5nZXJzLWNvbnNpc3RlbmN5LWlzLXJhcmUtYnV0LWhlLWhhcy1sb3RzLW9mLXJvb20tdG8taW1wcm92ZS1zYXlzLW1pa2VsLWFydGV0YdIBnwFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2FtcC9mb290YmFsbC9uZXdzLzExMDk1LzEyODQ0NDc2L2J1a2F5by1zYWthLWFyc2VuYWwtd2luZ2Vycy1jb25zaXN0ZW5jeS1pcy1yYXJlLWJ1dC1oZS1oYXMtbG90cy1vZi1yb29tLXRvLWltcHJvdmUtc2F5cy1taWtlbC1hcnRldGE?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T21:17:44Z",
-      "content": null
+        "name": "Football.London",
+        "url": "https://www.football.london"
+      }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Guardian",
-      "title": "Scott McTominay stuns Spain to extend Scotland's perfect start to qualifying - The Guardian",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC8yMDIzL21hci8yOC9zY290bGFuZC1zcGFpbi1ldXJvLTIwMjQtcXVhbGlmaWVyLW1hdGNoLXJlcG9ydNIBYGh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC8yMDIzL21hci8yOC9zY290bGFuZC1zcGFpbi1ldXJvLTIwMjQtcXVhbGlmaWVyLW1hdGNoLXJlcG9ydA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:55:00Z",
-      "content": null
+      "title": "Home Office ‘to announce’ barge as accommodation for asylum seekers",
+      "description": "The Bibby Stockholm is said to have more than 220 bedrooms and facilities including a gym and bar",
+      "content": "The Home Office is poised to reveal a barge as its first offshore accommodation for asylum seekers, the Guardian understands.\nThe Bibby Stockholm has been used “all over Europe” to accommodate asylum seekers, according to sources close to the Barbado... [3783 chars]",
+      "url": "https://www.theguardian.com/uk-news/2023/apr/03/home-office-to-announce-barge-as-accommodation-for-asylum-seekers",
+      "image": "https://i.guim.co.uk/img/media/f575d9d6dfe1a080732e9eb232e70daee65c1150/309_153_2306_1384/master/2306.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c639d7a300e6f7c6711b457480e631dd",
+      "publishedAt": "2023-04-03T18:53:00Z",
+      "source": { "name": "The Guardian", "url": "https://www.theguardian.com" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Telegraph",
-      "title": "Net zero ban on petrol cars in chaos after Brussels climbdown - The Telegraph",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9idXNpbmVzcy8yMDIzLzAzLzI4L25ldC16ZXJvLWJhbi1wZXRyb2wtY2Fycy1jaGFvcy1icnVzc2Vscy1jbGltYmRvd24v0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:46:00Z",
-      "content": null
+      "title": "Monday Night Football LIVE: \"Mad\" Chelsea, Graham Potter axe and \"bizarre\" Tottenham call",
+      "description": "It's been a weekend of chaos in the Premier League with Graham Potter leaving Chelsea - while Manchester United and Liverpool both endured difficult away trips",
+      "content": "It's fair to say it's been a busy few days in the Premier League, with Graham Potter sacked by Chelsea while Manchester United and Liverpool both suffered humiliating losses.\nTodd Boehly's patience at Chelsea has once again been pushed too far and he... [569 chars]",
+      "url": "https://www.mirror.co.uk/sport/football/news/premierleague-news-live-chelsea-manutd-29594805",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article29621749.ece/ALTERNATES/s1200/1_Screenshot-2023-04-03-at-193107.jpg",
+      "publishedAt": "2023-04-03T18:50:31Z",
+      "source": { "name": "The Mirror", "url": "https://www.mirror.co.uk" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Guardian",
-      "title": "Prince Harry: royals ‘agreed not to sue’ newspapers over phone hacking - The Guardian",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzLzIwMjMvbWFyLzI4L3ByaW5jZS1oYXJyeS1yb3lhbHMtYWdyZWVkLW5vdC10by1zdWUtbmV3c3BhcGVycy1vdmVyLXBob25lLWhhY2tpbmfSAXNodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdWstbmV3cy8yMDIzL21hci8yOC9wcmluY2UtaGFycnktcm95YWxzLWFncmVlZC1ub3QtdG8tc3VlLW5ld3NwYXBlcnMtb3Zlci1waG9uZS1oYWNraW5n?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:40:00Z",
-      "content": null
+      "title": "Musk responds as Twitter deletes bird logo, adds DogeCoin Dog while Blue Ticks remain… for now",
+      "description": "Twitter’s logo mysteriously transformed from the familiar bird into the memetastic DogeCoin dog yesterday, leaving users perplexed.",
+      "content": "Musk responds as Twitter deletes bird logo, adds DogeCoin Dog while Blue Ticks remain… for now\nMusk replies to meme dog with a meme of his own\nTwitter’s logo mysteriously transformed from the familiar bird into the memetastic DogeCoin dog today, leav... [4333 chars]",
+      "url": "https://www.cityam.com/twitter-logo-transforms-into-dogecoin-dog-blue-ticks-remain/",
+      "image": "https://www.cityam.com/wp-content/uploads/2023/04/doge1.jpg",
+      "publishedAt": "2023-04-03T18:05:52Z",
+      "source": { "name": "City A.M.", "url": "https://www.cityam.com" }
     },
     {
+      "title": "‘Bullying’ accountant must pay neighbours £60,000 for ‘selfish’ parking, judge rules",
+      "description": "Row over ‘few feet’ of space in west London had potential to reduce value of family’s £750,000 home by 10 per cent",
+      "content": "An accountant whose parking was described by a judge as “high handed” and “amounts to bullying” must pay his neighbours more than £60,000 in compensation.\nIvan Soares, 53, and his neighbours have been locked in a row over a “few feet” of parking spac... [1400 chars]",
+      "url": "https://www.telegraph.co.uk/news/2023/04/03/selfish-parking-compensation-60000-harefield/",
+      "image": "https://www.telegraph.co.uk/content/dam/news/2023/04/03/TELEMMGLPICT000331062583_trans_NvBQzQNjv4BqFpD80NKTcqAzQqPjMGntoEjQgvH34WeOw5obAiPpgeo.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2023-04-03T17:51:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Guardian",
-      "title": "Russian man detained after daughter's anti-war drawings flees house arrest - The Guardian",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIzL21hci8yOC9ydXNzaWFuLW1hbi1kZXRhaW5lZC1hZnRlci1kYXVnaHRlcnMtYW50aS13YXItZHJhd2luZ3MtZmxlZXMtaG91c2UtYXJyZXN00gF3aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMjMvbWFyLzI4L3J1c3NpYW4tbWFuLWRldGFpbmVkLWFmdGVyLWRhdWdodGVycy1hbnRpLXdhci1kcmF3aW5ncy1mbGVlcy1ob3VzZS1hcnJlc3Q?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:21:00Z",
-      "content": null
+        "name": "The Telegraph",
+        "url": "https://www.telegraph.co.uk"
+      }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Push Square",
-      "title": "Upcoming PS5 Shooter Crime Boss: Rockay City Opens to a 55 Metacritic Rating - Push Square",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnB1c2hzcXVhcmUuY29tL25ld3MvMjAyMy8wMy91cGNvbWluZy1wczUtc2hvb3Rlci1jcmltZS1ib3NzLXJvY2theS1jaXR5LW9wZW5zLXRvLWEtNTUtbWV0YWNyaXRpYy1yYXRpbmfSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:30:00Z",
-      "content": null
+      "title": "More strikes planned by teachers in England after rejection of pay offer",
+      "description": "Ministers struggle to curb widespread industrial action in public sector",
+      "content": "England’s largest teaching union on Monday announced its members had rejected the government’s latest pay offer and outlined further strike action, as industrial unrest in the public sector intensified.\nCivil servants in the UK Passport Office have b... [3293 chars]",
+      "url": "https://www.ft.com/content/238e69b7-16a3-489f-985e-4b830a5d0bb5",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F53de8ee8-73d0-4651-9abd-937e188a3647.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2023-04-03T17:45:41Z",
+      "source": { "name": "Financial Times", "url": "https://www.ft.com" }
     },
     {
+      "title": "West Midlands Police makes major change across the region - how it will affect you",
+      "description": "Chief Constable Craig Guildford vowed to work to 'try and solve intrinsic problems' region has suffered with for years",
+      "content": "Something went wrong, please try again later.\nInvalid email Something went wrong, please try again later.\nWest Midlands Police has announced a major change to its policing across the region in a bid to make \"local areas safer\". The force has vowed to... [4259 chars]",
+      "url": "https://www.birminghammail.co.uk/black-country/west-midlands-police-makes-major-26622361",
+      "image": "https://i2-prod.birminghammail.co.uk/incoming/article25828715.ece/ALTERNATES/s1200/1_076A0809JPG.jpg",
+      "publishedAt": "2023-04-03T16:54:03Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Football.London",
-      "title": "Thomas Tuchel picks out the Chelsea star he wants first in Bayern Munich raid - Football.London",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZvb3RiYWxsLmxvbmRvbi9jaGVsc2VhLWZjL3RyYW5zZmVyLW5ld3MvdGhvbWFzLXR1Y2hlbC1waWNrcy1vdXQtY2hlbHNlYS0yNjU4MDcxM9IBYWh0dHBzOi8vd3d3LmZvb3RiYWxsLmxvbmRvbi9jaGVsc2VhLWZjL3RyYW5zZmVyLW5ld3MvdGhvbWFzLXR1Y2hlbC1waWNrcy1vdXQtY2hlbHNlYS0yNjU4MDcxMy5hbXA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:30:00Z",
-      "content": null
+        "name": "Birmingham Live",
+        "url": "https://www.birminghammail.co.uk"
+      }
     },
     {
+      "title": "Doctor Who: Drag Race winner Jinkx Monsoon joins new series cast in ‘major role’",
+      "description": "Russell T Davies said drag performer’s appearance had been ‘six months in the planning’",
+      "content": "Sign up to our free IndyArts newsletter for all the latest entertainment news and reviews Sign up to our free IndyArts newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, e... [2157 chars]",
+      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/doctor-who-jinkx-monsoon-b2313340.html",
+      "image": "https://static.independent.co.uk/2023/04/03/17/Collage%20Maker-03-Apr-2023-05-42-PM-3497.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-04-03T16:49:19Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Guardian",
-      "title": "UK's illegal migration bill will force traffickers underground, says May - The Guardian",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIzL21hci8yOC91a3MtbWlncmF0aW9uLWJpbGwtd2lsbC1mb3JjZS10cmFmZmlja2Vycy11bmRlcmdyb3VuZC1zYXlzLW1hedIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:22:00Z",
-      "content": null
+        "name": "The Independent",
+        "url": "https://www.independent.co.uk"
+      }
     },
     {
+      "title": "Timothy Schofield, brother of Phillip Schofield, found guilty of sexually abusing boy over three years",
+      "description": "Timothy Schofield, 54, was charged with 11 sexual offences involving a child between October 2016 and October 2019",
+      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed ... [4713 chars]",
+      "url": "https://www.independent.co.uk/news/uk/crime/phillip-schofield-brother-timothy-guilty-abuse-b2313295.html",
+      "image": "https://static.independent.co.uk/2023/03/28/13/3_Phillip-Schofield-instagram.jpeg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-04-03T16:43:37Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Daily Mail",
-      "title": "Why it's boom or bust for Anthony Joshua vs Tyson Fury ahead of AJ vs Jermain Franklin - Daily Mail",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvc3BvcnQvYm94aW5nL2FydGljbGUtMTE5MTA1MzEvV2h5LWJvb20tYnVzdC1BbnRob255LUpvc2h1YS12cy1UeXNvbi1GdXJ5LWFoZWFkLUFKLXZzLUplcm1haW4tRnJhbmtsaW4uaHRtbNIBigFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvc3BvcnQvYm94aW5nL2FydGljbGUtMTE5MTA1MzEvYW1wL1doeS1ib29tLWJ1c3QtQW50aG9ueS1Kb3NodWEtdnMtVHlzb24tRnVyeS1haGVhZC1BSi12cy1KZXJtYWluLUZyYW5rbGluLmh0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:00:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Digital Spy",
-      "title": "EastEnders recasts a character as new Queen Vic family is revealed - Digital Spy",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmRpZ2l0YWxzcHkuY29tL3NvYXBzL2Vhc3RlbmRlcnMvYTQzNDQxOTEwL2Vhc3RlbmRlcnMta25pZ2h0LWZhbWlseS1yZWNhc3RpbmctbW9sbHktcmFpbmZvcmQv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:00:04Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Belfast Live",
-      "title": "NI terror threat level severe as \"dissidents desperate for a kill\" - Belfast Live",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmJlbGZhc3RsaXZlLmNvLnVrL25ld3MvbmktdGVycm9yLXRocmVhdC1sZXZlbC1zZXZlcmUtMjY1ODA3MjnSAU1odHRwczovL3d3dy5iZWxmYXN0bGl2ZS5jby51ay9uZXdzL25pLXRlcnJvci10aHJlYXQtbGV2ZWwtc2V2ZXJlLTI2NTgwNzI5LmFtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:59:04Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Independent",
-      "title": "Keir Starmer accused of ‘behaving like Putin’ as Corbyn officially blocked from standing for Labour - The Independent",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3Mva2Vpci1zdGFybWVyLWplcmVteS1jb3JieW4tbGFib3VyLXB1dGluLWIyMzA5NDAxLmh0bWzSAWhodHRwczovL3d3dy5pbmRlcGVuZGVudC5jby51ay9uZXdzL3VrL3BvbGl0aWNzL2tlaXItc3Rhcm1lci1qZXJlbXktY29yYnluLWxhYm91ci1wdXRpbi1iMjMwOTQwMS5odG1sP2FtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:23:37Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Times",
-      "title": "Gwyneth Paltrow trial: accuser's ski crash claims break laws of physics, says expert - The Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZ3d5bmV0aC1wYWx0cm93LXRyaWFsLWxpdmUtc2tpLWNyYXNoLWNoaWxkcmVuLWFwcGxlLW1vc2VzLXN0YXRlbWVudHMtMjAyMy1kajg2aHp6M2TSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:20:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "BBC",
-      "title": "Space scientists reveal brightest gamma explosion ever - BBC",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLWVuZ2xhbmQtbGVpY2VzdGVyc2hpcmUtNjUxMDQxMTXSAUFodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy91ay1lbmdsYW5kLWxlaWNlc3RlcnNoaXJlLTY1MTA0MTE1LmFtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:00:12Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "BBC",
-      "title": "Bodycam footage shows how Nashville school shooting unfolded - BBC",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NTEwNDQ4N9IBN2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS02NTEwNDQ4Ny5hbXA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:00:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Guardian",
-      "title": "Home Office planning to house asylum seekers on disused cruise ships - The Guardian",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy8yMDIzL21hci8yOC9ob21lLW9mZmljZS1wbGFubmluZy10by1ob3VzZS1hc3lsdW0tc2Vla2Vycy1vbi1kaXN1c2VkLWNydWlzZS1zaGlwc9IBdWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy8yMDIzL21hci8yOC9ob21lLW9mZmljZS1wbGFubmluZy10by1ob3VzZS1hc3lsdW0tc2Vla2Vycy1vbi1kaXN1c2VkLWNydWlzZS1zaGlwcw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:57:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Sky News",
-      "title": "Kate Forbes leaves Scottish government after rejecting demotion from new first minister Humza Yousaf - Sky News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2thdGUtZm9yYmVzLXJlamVjdHMtZGVtb3Rpb24tb2ZmZXJlZC1ieS1zY290bGFuZHMtbmV3LWZpcnN0LW1pbmlzdGVyLWh1bXphLXlvdXNhZi0xMjg0NDM0MdIBeWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9rYXRlLWZvcmJlcy1yZWplY3RzLWRlbW90aW9uLW9mZmVyZWQtYnktc2NvdGxhbmRzLW5ldy1maXJzdC1taW5pc3Rlci1odW16YS15b3VzYWYtMTI4NDQzNDE?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:26:15Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Guardian",
-      "title": "Next buys Cath Kidston brand for £8.5m with remaining UK stores to close - The Guardian",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDIzL21hci8yOC9uZXh0LWJ1eXMtY2F0aC1raWRzdG9uLWJyYW5kLWZvci04NW0td2l0aC1yZW1haW5pbmctdWstc3RvcmVzLXRvLWNsb3Nl0gF3aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzLzIwMjMvbWFyLzI4L25leHQtYnV5cy1jYXRoLWtpZHN0b24tYnJhbmQtZm9yLTg1bS13aXRoLXJlbWFpbmluZy11ay1zdG9yZXMtdG8tY2xvc2U?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:25:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Slipped Disc",
-      "title": "App top: DG climbs aboard the Apple cart - Slippedisc - Slipped Disc",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vc2xpcHBlZGlzYy5jb20vMjAyMy8wMy9hcHAtdG9wLWRnLWNsaW1icy1hYm9hcmQtdGhlLWFwcGxlLWNhcnQv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:13:06Z",
-      "content": null
+        "name": "The Independent",
+        "url": "https://www.independent.co.uk"
+      }
     }
   ],
   "au": [
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "news.com.au",
-      "title": "Secret MAFS sexting scandal exposed - news.com.au",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9lbnRlcnRhaW5tZW50L3R2L3JlYWxpdHktdHYvbWFycmllZC1hdC1maXJzdC1zaWdodC9pbnNpZGUtc2V4dGluZy1zY2FuZGFsLWF0LW1hcnJpZWQtYXQtZmlyc3Qtc2lnaHRzLXJldW5pb24tZGlubmVyLXBhcnR5L25ld3Mtc3RvcnkvY2VkNmYzNjRkOGM4YzdhZjRjOWRmYWRlOGE1ZjZmOTnSAcEBaHR0cHM6Ly93d3cubmV3cy5jb20uYXUvZW50ZXJ0YWlubWVudC90di9yZWFsaXR5LXR2L21hcnJpZWQtYXQtZmlyc3Qtc2lnaHQvaW5zaWRlLXNleHRpbmctc2NhbmRhbC1hdC1tYXJyaWVkLWF0LWZpcnN0LXNpZ2h0cy1yZXVuaW9uLWRpbm5lci1wYXJ0eS9uZXdzLXN0b3J5L2NlZDZmMzY0ZDhjOGM3YWY0YzlkZmFkZThhNWY2Zjk5P2FtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T22:18:19Z",
-      "content": null
+      "title": "Maree and Rhiley Kuhrt remembered by friends and family after plane crash near Proserpine",
+      "description": "Friends and family have shared heartfelt tributes to a \"beautiful\" western Queensland couple who died after their light plane crashed near Proserpine on Sunday.",
+      "content": "Friends and family have shared heartfelt tributes to a \"beautiful\" western Queensland couple who died after their light plane crashed near Proserpine on Sunday.\nKey points: Friends say Rhiley and Maree Kuhrt were flying to Mackay to attend a pregnanc... [3997 chars]",
+      "url": "https://www.abc.net.au/news/2023-04-04/maree-rhiley-kuhrt-plane-crash-expecting-child/102181416",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2c24f95b771e0e417dbbb5ae8995384d?impolicy=wcms_crop_resize&cropH=590&cropW=1049&xPos=22&yPos=325&width=862&height=485",
+      "publishedAt": "2023-04-03T19:45:32Z",
+      "source": { "name": "ABC News", "url": "https://www.abc.net.au" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Age",
-      "title": "Pedestrians were given priority on Melbourne’s ‘Little’ streets. But drivers aren’t sharing - The Age",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy50aGVhZ2UuY29tLmF1L25hdGlvbmFsL3ZpY3RvcmlhL21lbGJvdXJuZS1zLWxpdHRsZS1zdHJlZXRzLXdlcmUtbWVhbnQtdG8tYmUtYS1wZWRlc3RyaWFuLXBhcmFkaXNlLWJ1dC1kcml2ZXJzLWFyZW4tdC1zaGFyaW5nLTIwMjMwMzI4LXA1Y3Z2My5odG1s0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T21:33:54Z",
-      "content": null
+      "title": "Why are Russia and Ukraine fighting so hard for the small city of Bakhmut?",
+      "description": "The battle for Bakhmut is the longest and bloodiest fight of the war so far, and it is heating up again. What makes the city so important and what's the state of play?",
+      "content": "Over 90 per cent of its residents have fled, much of it lies in ruins, tens of thousands have been killed, and its strategic importance has been played down by the Pentagon and NATO chiefs.\nYet Russia and Ukraine are still battling for the small city... [8658 chars]",
+      "url": "https://www.abc.net.au/news/2023-04-04/bakhmut-battle-explained-ukraine-russia-war/102178928",
+      "image": "https://live-production.wcms.abc-cdn.net.au/aa8cf9dc9519a0f71909dda7e0869ade?impolicy=wcms_crop_resize&cropH=1468&cropW=2609&xPos=0&yPos=128&width=862&height=485",
+      "publishedAt": "2023-04-03T17:49:43Z",
+      "source": { "name": "ABC News", "url": "https://www.abc.net.au" }
     },
     {
+      "title": "Could mink serve as an immediate host for Influenza A transmission?",
+      "description": "A recent study discussed influenza A virus infections in minks, emphasizing their contribution/role as an intermediate host.",
+      "content": "A recent study published in the One Health Advances Journal discussed influenza A virus (IAV) infections in minks, emphasizing their contribution/role as an intermediate host.\nStudy: Mink infection with influenza A viruses: an ignored intermediate ho... [4915 chars]",
+      "url": "https://www.news-medical.net/news/20230403/Could-mink-serve-as-an-immediate-host-for-Influenza-A-transmission.aspx",
+      "image": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_743824_16805320102814417.jpg",
+      "publishedAt": "2023-04-03T14:41:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "9News",
-      "title": "Russian dad on the run after daughter's art triggers prison sentence - 9News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy45bmV3cy5jb20uYXUvd29ybGQvcnVzc2lhLXVrcmFpbmUtd2FyLXJ1c3NpYW4tZmF0aGVyLWNvbnZpY3RlZC1vdmVyLWRhdWdodGVycy1kcmF3aW5ncy84MTAxZjcyNC1hMDhjLTQwMmItYTUxMy01NzBmY2FjM2MxMWLSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS84MTAxZjcyNC1hMDhjLTQwMmItYTUxMy01NzBmY2FjM2MxMWI?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:48:44Z",
-      "content": null
+        "name": "News-Medical.Net",
+        "url": "https://www.news-medical.net"
+      }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "ABC News",
-      "title": "Celeste Barber crushed Instagram thirst traps, now she's coming for the wellness industry in her new Netflix show Wellmania - ABC News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTAzLTI5L3dlbGxtYW5pYS1jZWxlc3RlLWJhcmJlci1uZXRmbGl4LWhvdy10by13YXRjaC8xMDIxNDE1ODLSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAyMTQxNTgy?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:18:19Z",
-      "content": null
+      "title": "Russia to respond to Finland's NATO ascension by 'strengthening' military on border",
+      "description": "Russian state media report a threat from the Kremlin to take \"additional steps\" with its military in response to Finland joining NATO, expanding the alliance to Russia's doorstep.",
+      "content": "Russia has vowed to \"strengthen its military potential\" along its border with Finland as a direct response to Finland’s accension to the NATO ranks on Tuesday.\nKey points: Finland and Russia share a border over 1,300km\nFinland and Russia share a bord... [1860 chars]",
+      "url": "https://www.abc.net.au/news/2023-04-03/russia-to-respond-to-finlands-nato-ascension/102182944",
+      "image": "https://live-production.wcms.abc-cdn.net.au/87092ef569fbf6e56295af91c76d5854?impolicy=wcms_crop_resize&cropH=2700&cropW=4800&xPos=0&yPos=250&width=862&height=485",
+      "publishedAt": "2023-04-03T13:04:40Z",
+      "source": { "name": "ABC News", "url": "https://www.abc.net.au" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Moree Champion",
-      "title": "WHO revises COVID-19 vaccine recommendations - Moree Champion",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm1vcmVlY2hhbXBpb24uY29tLmF1L3N0b3J5LzgxMzk1ODYvd2hvLXJldmlzZXMtY292aWQtMTktdmFjY2luZS1yZWNvbW1lbmRhdGlvbnMv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:05:54Z",
-      "content": null
+      "title": "Married at FIrst Sight finale: Hugo has called out Dan",
+      "description": "Married at First Sight viewers have been left fuming after the grooms turn on each other, and Hugo reveals the extent of Dan’s gross behaviour in the bonkers finale.",
+      "content": "Married at First Sight viewers have been left fuming after the grooms turn on each other, and Hugo reveals the extent of Dan’s gross behaviour in the bonkers finale.\nThe final episode is all about the couples pairing up again to discuss how they trau... [2982 chars]",
+      "url": "https://www.news.com.au/entertainment/tv/reality-tv/married-at-first-sight/hugo-has-revealed-dans-horrifying-behaviour-in-the-bonkers-mafs-finale/news-story/f0912d288330096ae36b78c8d6f385ec",
+      "image": "https://content.api.news/v3/images/bin/ac71673101f41c44fce8a1a16ab6fdbd",
+      "publishedAt": "2023-04-03T12:58:47Z",
+      "source": { "name": "news.com.au", "url": "https://www.news.com.au" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "ABC News",
-      "title": "Queensland renters facing the prospect of giving up groceries to keep a roof over their heads - ABC News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTAzLTI5L3F1ZWVuc2xhbmQtcmVudGFsLWNyaXNpcy1ob21lbGVzc25lc3MtaG91c2luZy1hZmZvcmRhYmlsaXR5LzEwMjE1NjAwNtIBKGh0dHBzOi8vYW1wLmFiYy5uZXQuYXUvYXJ0aWNsZS8xMDIxNTYwMDY?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:52:47Z",
-      "content": null
+      "title": "news.com.au - Australia’s leading news site",
+      "description": "One husband is exposed in secretly filmed footage that’s aired during the Married At First Sight finale on Monday night as producers hose the remaining drops of putrid bin juice out of the dumpster that is this program.",
+      "content": "One husband is exposed in secretly filmed footage that’s aired during the Married At First Sight finale on Monday night as producers hose the remaining drops of putrid bin juice out of the dumpster that is this program.\nAfter enduring multiple episod... [6044 chars]",
+      "url": "https://www.news.com.au/entertainment/tv/reality-tv/married-at-first-sight/james-weir-recaps-married-at-first-sight-australia-2023-finale/news-story/570face3eab26c9fe578e1baa2c3b76a",
+      "image": "https://content.api.news/v3/images/bin/078e1adf0fd15be8c3f4678ef317652e",
+      "publishedAt": "2023-04-03T11:20:20Z",
+      "source": { "name": "news.com.au", "url": "https://www.news.com.au" }
     },
     {
+      "title": "Jamie Cripps likely out for the season as West Coast injuries continue to mount after western derby",
+      "description": "West Coast could be without close to a dozen of their best 22 for the next few weeks as the demons of their last season begin to rise in 2023.",
+      "content": "West Coast’s injury nightmare has resurfaced as the club prepares to be without close to half of their best 22 for the next few weeks.\nForward Jamie Cripps is likely to miss the rest of the season season when he has surgery on his broken ankle on Tue... [2767 chars]",
+      "url": "https://thewest.com.au/sport/west-coast-eagles/jamie-cripps-likely-out-for-the-season-as-west-coast-injuries-continue-to-mount-after-western-derby-c-10238683",
+      "image": "https://images.thewest.com.au/publication/C-10238683/f70de0433f5abbe976bbe682fa87d7cb05e0a286-16x9-x973y134w2105h1184.jpg?imwidth=1200",
+      "publishedAt": "2023-04-03T10:48:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "9News",
-      "title": "Nashville school shooting update: Bodycam footage shows police confronting Audrey Hale - 9News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy45bmV3cy5jb20uYXUvd29ybGQvbmFzaHZpbGxlLXNob290aW5nLXVwZGF0ZS1ib2R5Y2FtLWZvb3RhZ2Utc2hvd3MtcG9saWNlLXJlc3BvbnNlLXRvLW5hc2h2aWxsZS1zY2hvb2wtc2hvb3RpbmcvNDFjMTk3ZGMtNTljYy00YjgxLTk5NDktMGJlYjBkMDYyYTEz0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:37:54Z",
-      "content": null
+        "name": "The West Australian",
+        "url": "https://thewest.com.au"
+      }
     },
     {
+      "title": "Unfit Medicare system haemorrhaging up to $3 billion a year",
+      "description": "A government-commissioned report into Medicare found it is so poorly structured and loosely scrutinised that it is no longer fit for purpose.",
+      "content": "This story is part of a series examining how billions of dollars are being rorted from Medicare each year.\nMedicare is haemorrhaging up to $3 billion a year in waste, according to a government-commissioned review of the health system’s integrity, whi... [1183 chars]",
+      "url": "https://www.smh.com.au/politics/federal/unfit-medicare-system-haemorrhaging-up-to-3-billion-a-year-20230403-p5cxnd.html",
+      "image": "https://static.ffx.io/images/$zoom_0.5518518518518518%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/b44c40b6566713ff5c321467b4576fbad9fadf2c",
+      "publishedAt": "2023-04-03T10:00:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Fox Sports",
-      "title": "‘Stitches at halftime’: Young gun’s courage in brutal ‘lesson’ as new tactic locked in — Talking Points - Fox Sports",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy5mb3hzcG9ydHMuY29tLmF1L2Zvb3RiYWxsL3NvY2Nlcm9vcy9zb2NjZXJvb3MtdnMtZWN1YWRvci1uZXdzLXJlc3VsdHMtZm9vdGJhbGwtMjAyMy1zY29yZXMtdGFjdGljcy1hbmFseXNpcy12aWRlby1oaWdobGlnaHRzL25ld3Mtc3RvcnkvMDgyZTFkYjgzMTQ4MTU3NTBjMTczYjZhYmY5MWY0MDDSAbQBaHR0cHM6Ly93d3cuZm94c3BvcnRzLmNvbS5hdS9mb290YmFsbC9zb2NjZXJvb3Mvc29jY2Vyb29zLXZzLWVjdWFkb3ItbmV3cy1yZXN1bHRzLWZvb3RiYWxsLTIwMjMtc2NvcmVzLXRhY3RpY3MtYW5hbHlzaXMtdmlkZW8taGlnaGxpZ2h0cy9uZXdzLXN0b3J5LzA4MmUxZGI4MzE0ODE1NzUwYzE3M2I2YWJmOTFmNDAw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:05:05Z",
-      "content": null
+        "name": "Sydney Morning Herald",
+        "url": "https://www.smh.com.au"
+      }
     },
     {
+      "title": "Researcher hypothesizes that overnutrition could lead to loss of self-tolerance by impinging on immune regulation",
+      "description": "Researchers explored the correlation between autoimmunity and obesity.",
+      "content": "In a recent perspective published in Science, researchers explored the correlation between autoimmunity and obesity.\nBackground\nStudies have suggested a significant relationship between obesity or being overweight and the likelihood of developing aut... [5735 chars]",
+      "url": "https://www.news-medical.net/news/20230403/Researcher-hypothesizes-that-overnutrition-could-lead-to-loss-of-self-tolerance-by-impinging-on-immune-regulation.aspx",
+      "image": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_743786_16805145968012203.jpg",
+      "publishedAt": "2023-04-03T09:40:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "ABC News",
-      "title": "Hotel and property giant Meriton hit by data hack, personal documents may be at risk - ABC News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTAzLTI5L2F1c3RyYWxpYW4taG90ZWwtY2hhaW4tbWVyaXRvbi1oaXQtYnktZGF0YS1icmVhY2gtaGFjay8xMDIxNDE4ODDSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAyMTQxODgw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:35:25Z",
-      "content": null
+        "name": "News-Medical.Net",
+        "url": "https://www.news-medical.net"
+      }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Conversation",
-      "title": "Low vaccination and immunity rates mean NZ faces a harsh whooping cough winter – what needs to happen - The Conversation",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vbG93LXZhY2NpbmF0aW9uLWFuZC1pbW11bml0eS1yYXRlcy1tZWFuLW56LWZhY2VzLWEtaGFyc2gtd2hvb3BpbmctY291Z2gtd2ludGVyLXdoYXQtbmVlZHMtdG8taGFwcGVuLTIwMjQ5OdIBigFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vYW1wL2xvdy12YWNjaW5hdGlvbi1hbmQtaW1tdW5pdHktcmF0ZXMtbWVhbi1uei1mYWNlcy1hLWhhcnNoLXdob29waW5nLWNvdWdoLXdpbnRlci13aGF0LW5lZWRzLXRvLWhhcHBlbi0yMDI0OTk?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:25:23Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Yahoo Finance",
-      "title": "PUBG's Creative Director On The Success Of Battle Royales - Yahoo Finance",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9wdWJncy1jcmVhdGl2ZS1kaXJlY3Rvci1zdWNjZXNzLWJhdHRsZS0xODIxMDAxMzIuaHRtbNIBXGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL3B1YmdzLWNyZWF0aXZlLWRpcmVjdG9yLXN1Y2Nlc3MtYmF0dGxlLTE4MjEwMDEzMi5odG1s?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:21:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Imad Khan",
-      "title": "What WatchOS 9.4 Fixes on Your Apple Watch - CNET",
-      "description": "The latest Apple Watch update brings Cycle Tracking to new countries and fixes an alarm bug.",
-      "url": "https://www.cnet.com/tech/mobile/what-watchos-9-4-fixes-on-your-apple-watch/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/fc81dfa52c7137e4240950773261c1c9dcf7067e/hub/2022/07/11/49e739a9-00c3-4eca-9dcb-d2fa86f596cb/watchos9-thumb.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-03-28T18:09:00Z",
-      "content": "Apple released WatchOS 9.4 on Monday, bringing cycle tracking and atrial fibrillation features to more Apple Watch users, and fixed a minor alarm bug. \r\nThe update is coming to models Series 4 or lat… [+1166 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Canberra Weekly",
-      "title": "30% increase in multiple sclerosis rates in Australia | CW - Canberra Weekly",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vY2FuYmVycmF3ZWVrbHkuY29tLmF1LzMwLWluY3JlYXNlLWluLW11bHRpcGxlLXNjbGVyb3Npcy1yYXRlcy1pbi1hdXN0cmFsaWEv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:05:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "ABC News",
-      "title": "Who's sitting on the crossbench in NSW parliament, and what they'll be asking from Labor - ABC News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTAzLTI5L25zdy1lbGVjdGlvbi13aG8taXMtc2l0dGluZy1vbi10aGUtY3Jvc3NiZW5jaC8xMDIxNTQ4MjjSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAyMTU0ODI4?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:04:21Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Coffs Coast Advocate",
-      "title": "Minns on collision course with NRL bosses over stadium funding - Coffs Coast Advocate",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvc3BvcnQvbnJsL3N5ZG5leS1ucmwtY2x1YnMtdG8tY29uZnJvbnQtbnN3LXByZW1pZXItY2hyaXMtbWlubnMtb3Zlci1zdWJ1cmJhbi1zdGFkaXVtLWZ1bmRpbmctc251Yi9uZXdzLXN0b3J5L2RhNmExODg5OWVkZTViYTMwYWVhM2YyZjgzZGQ3Nzk30gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:01:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "ABC News",
-      "title": "Former High Court justice Kenneth Hayne backs Voice to Parliament details - ABC News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTAzLTI5L2tlbm5ldGgtaGF5bmUtYmFja3Mtdm9pY2UtdG8tcGFybGlhbWVudC1kZXRhaWxzLzEwMjE1Mzg0ONIBKGh0dHBzOi8vYW1wLmFiYy5uZXQuYXUvYXJ0aWNsZS8xMDIxNTM4NDg?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "ABC News",
-      "title": "Albanese government's $15 billion manufacturing fund passes Senate – so what does it mean? - ABC News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTAzLTI5L2ZlZGVyYWwtZ292ZXJubWVudC1zLTE1LWJpbGxpb24tbWFudWZhY3R1cmluZy1mdW5kLXBhc3Nlcy1zZW5hdGUvMTAyMTU3MDMw0gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwMjE1NzAzMA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:59:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "news.com.au",
-      "title": "New clashes erupt in France pension protests - news.com.au",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9icmVha2luZy1uZXdzL2ZyYW5jZS1mYWNlcy1uZXctc3RyaWtlLXR1cm1vaWwtYXMtbWFjcm9uLXJlbWFpbnMtZGVmaWFudC9uZXdzLXN0b3J5Lzk2Y2IzMzdiY2QzMjc4ZjllNTVhMDkwNzAyY2QyMWFl0gGPAWh0dHBzOi8vd3d3Lm5ld3MuY29tLmF1L2JyZWFraW5nLW5ld3MvZnJhbmNlLWZhY2VzLW5ldy1zdHJpa2UtdHVybW9pbC1hcy1tYWNyb24tcmVtYWlucy1kZWZpYW50L25ld3Mtc3RvcnkvOTZjYjMzN2JjZDMyNzhmOWU1NWEwOTA3MDJjZDIxYWU_YW1w?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:48:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "9News",
-      "title": "Mexico immigration centre fire kills 39, after migrants set mattresses ablaze, president says - 9News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy45bmV3cy5jb20uYXUvd29ybGQvY2l1ZGFkLWp1YXJlei1pbW1pZ3JhdGlvbi1jZW50cmUtZmlyZS1kb3plbnMta2lsbGVkLWFmdGVyLW1hdHRyZXNzZXMtc2V0LWFibGF6ZS8zZWRkZWYzMS1lNzljLTRhMTMtOTJkNC0wZDBkZDg1ZWNhMGXSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS8zZWRkZWYzMS1lNzljLTRhMTMtOTJkNC0wZDBkZDg1ZWNhMGU?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T16:27:15Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Hippocratic Post",
-      "title": "Sepsis study to power new antibiotic discoveries - The Hippocratic Post",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmhpcHBvY3JhdGljcG9zdC5jb20vYXVzdHJhbGFzaWEvc2Vwc2lzLXN0dWR5LXRvLXBvd2VyLW5ldy1hbnRpYmlvdGljLWRpc2NvdmVyaWVzL9IBYWh0dHBzOi8vd3d3LmhpcHBvY3JhdGljcG9zdC5jb20vYXVzdHJhbGFzaWEvc2Vwc2lzLXN0dWR5LXRvLXBvd2VyLW5ldy1hbnRpYmlvdGljLWRpc2NvdmVyaWVzL2FtcC8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T14:55:10Z",
-      "content": null
+      "title": "Malka Leifer found guilty of rape and child sex abuse of two sisters as jury reaches verdict",
+      "description": "A Victorian jury finds Leifer guilty of 18 sexual offences relating to two sisters, and not guilty of offences relating to a third sister. The verdict follows a weeks-long trial on the historical allegations.",
+      "content": "Former Melbourne school principal Malka Leifer has been found guilty of child sexual abuse and rape charges following a trial in Victoria's County Court.\nKey points: The jury found Leifer guilty of sexually abusing two sisters who attended her school... [4258 chars]",
+      "url": "https://www.abc.net.au/news/2023-04-03/malka-leifer-sex-abuse-trial-jury-verdict-principal/102061290",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4acf25995f535b8152a5feb7180c36c4?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2023-04-03T08:26:15Z",
+      "source": { "name": "ABC News", "url": "https://www.abc.net.au" }
     }
   ],
   "ca": [
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CBC.ca",
-      "title": "Last 2 victims of Old Montreal fire identified - CBC.ca",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9vbGQtbW9udHJlYWwtZmlyZS1sYXN0LXZpY3RpbXMtaWRlbnRpZmllZC0xLjY3OTM2NjfSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNjc5MzY2Nw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T22:21:06Z",
-      "content": null
+      "title": "COVID-19 | Changements à l’offre de service de vaccination et de dépistage",
+      "description": "La Direction du Centre intégré de santé et de services sociaux (CISSS) de Lanaudière souhaite informer la population des changements concernant l’offre de service de vaccination et de dépistage de la COVID-19.",
+      "content": "La Direction du Centre intégré de santé et de services sociaux (CISSS) de Lanaudière souhaite informer la population des changements concernant l’offre de service de vaccination et de dépistage de la COVID-19.\nModification des heures d’ouverture des ... [1119 chars]",
+      "url": "https://lanauweb.info/covid-19-changements-a-loffre-de-service-de-vaccination-et-de-depistage/",
+      "image": "https://lanauweb.info/wp-content/uploads/2021/03/image-vaccination-1-1024x687.jpg",
+      "publishedAt": "2023-04-03T20:45:44Z",
+      "source": { "name": "LanauWeb", "url": "https://lanauweb.info" }
     },
     {
+      "title": "1 under arrest following Calgary stabbing and attempted robbery",
+      "description": "At least three people were stabbed and a fourth assaulted in an attempted robbery on Monday amid a violent spree in downtown Calgary.",
+      "content": "At least three people were stabbed and a fourth assaulted in an attempted robbery on Monday amid a spurt of violence in downtown Calgary.\nThe first incident took place at the intersection of Seventh Avenue and Fourth Street S.E., around 12:45 p.m. wh... [875 chars]",
+      "url": "https://calgary.ctvnews.ca/man-taken-into-custody-multiple-people-injured-in-downtown-calgary-violence-1.6340787",
+      "image": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/4/3/stabber-april-3-1-6340790-1680554280115.jpg",
+      "publishedAt": "2023-04-03T20:07:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CP24",
-      "title": "Toronto subway stabbing suspect wanted in Newfoundland - CP24",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvbWFuLWFjY3VzZWQtb2Yta2lsbGluZy10ZWVuLWluLXRvcm9udG8tc3Vid2F5LXN0YXRpb24td2FudGVkLWluLW5ld2ZvdW5kbGFuZC0xLjYzMzI0NjbSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T22:00:11Z",
-      "content": null
+        "name": "CTV News Calgary",
+        "url": "https://calgary.ctvnews.ca"
+      }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CTV News Calgary",
-      "title": "Calgary teen dies in Martindale shooting | CTV News - CTV News Calgary",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vY2FsZ2FyeS5jdHZuZXdzLmNhLzE1LXllYXItb2xkLWdpcmwtc2hvdC10by1kZWF0aC1pbi1ub3J0aGVhc3QtY2FsZ2FyeS0xLjYzMzE4ODbSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:49:03Z",
-      "content": null
+      "title": "One alcoholic beverage per day is OK: study",
+      "description": "An alcoholic beverage is not likely to pose a threat to one’s health or offer health benefits, according to a new Canadian study.",
+      "content": "An alcoholic beverage is not likely to pose a threat to one’s health or on the other hand, offer health benefits, according to a new Canadian study.\nThe investigative review by the Canadian Institute for Substance Use Research, titled “Association Be... [1742 chars]",
+      "url": "https://nowtoronto.com/news/one-alcoholic-beverage-per-day-is-ok-study/",
+      "image": "https://nowtoronto.com/wp-content/uploads/2023/04/alc-ok-1.png",
+      "publishedAt": "2023-04-03T19:13:10Z",
+      "source": { "name": "NOW Toronto", "url": "https://nowtoronto.com" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Al Jazeera English",
-      "title": "US bears ‘moral weight’ of Mexico migrant tragedy: Advocates - Al Jazeera English",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzMvMjgvdXMtYmVhcnMtbW9yYWwtd2VpZ2h0LW9mLW1leGljby1taWdyYW50LXRyYWdlZHktYWR2b2NhdGVz0gFmaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDIzLzMvMjgvdXMtYmVhcnMtbW9yYWwtd2VpZ2h0LW9mLW1leGljby1taWdyYW50LXRyYWdlZHktYWR2b2NhdGVz?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:42:31Z",
-      "content": null
+      "title": "La police indienne identifie quatre des huit migrants retrouvés morts",
+      "description": "Les quatre ressortissants indiens dont les corps figuraient parmi les huit cadavres extraits du fleuve Saint-Laurent la semaine dernière voyageaient au Canada avec un visa de tourisme, a déclaré lundi un responsable de la police de leur État d’origine.",
+      "content": "Huit personnes – quatre originaires d’Inde et quatre d’origine roumaine – sont mortes en tentant de traverser illégalement les États-Unis depuis le Canada, via le territoire mohawk d’Akwesasne.\nLes quatre ressortissants indiens dont les corps figurai... [2379 chars]",
+      "url": "https://www.lapresse.ca/actualites/2023-04-03/drame-a-akwesasne/la-police-indienne-identifie-quatre-des-huit-migrants-retrouves-morts.php",
+      "image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0fc3e465e220390ca43b3875ef375c1d.jpg",
+      "publishedAt": "2023-04-03T18:45:26Z",
+      "source": { "name": "La Presse", "url": "https://www.lapresse.ca" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CTV News Calgary",
-      "title": "Neighbour describes Calgary house explosion - CTV News Calgary",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vY2FsZ2FyeS5jdHZuZXdzLmNhL2l0LXMtcmVhbGx5LXNhZC1uZWlnaGJvdXItZGVzY3JpYmVzLWNoYW90aWMtc2NlbmUtYWZ0ZXItY2FsZ2FyeS1ob3VzZS1leHBsb3Npb24tMS42MzMyMzk30gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:17:19Z",
-      "content": null
+      "title": "UBC encourages students to uninstall TikTok app, citing 'not yet' proven data risks",
+      "description": "The University of British Columbia is encouraging students to uninstall the TikTok app from their mobile phones, citing concerns about data sharing with the social media platform's Chinese parent company.",
+      "content": "Photo: The Canadian Press The TikTok startup page is displayed on an iPhone in Ottawa on Monday, Feb. 27, 2023. The University of British Columbia is encouraging students to uninstall the TikTok app from their mobile phones, citing concerns about dat... [1431 chars]",
+      "url": "https://www.castanet.net/news/BC/419381/UBC-encourages-students-to-uninstall-TikTok-app-citing-not-yet-proven-data-risks",
+      "image": "https://www.castanet.net/content/2023/4/20230403130428-cbe50df2f483a4ac4eb0d2ddd86be693d09ec47879d8f96e09196ef5a4b07160_p3673388.jpg",
+      "publishedAt": "2023-04-03T18:34:00Z",
+      "source": { "name": "Castanet.net", "url": "https://www.castanet.net" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CTV News Ottawa",
-      "title": "Budget 2023: Canada to look into standard chargers, right to repair | CTV News - CTV News Ottawa",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vb3R0YXdhLmN0dm5ld3MuY2EvY291bGQtY2FuYWRhLXNvb24tc3RhbmRhcmRpemUtdXNiLWNoYXJnZXJzLWZlZHMtbG9va2luZy1pbnRvLWl0LWJ1ZGdldC1zYXlzLTEuNjMzMjY5MtIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:14:00Z",
-      "content": null
+      "title": "Trudeau speaks about deaths of eight migrants",
+      "description": "Prime Minister Justin Trudeau is reiterating the importance of an orderly immigration system as police investigate the deaths of eight migrants, including two children, in the Mohawk Territory of Akwesasne last week.",
+      "content": "OTTAWA -\nPrime Minister Justin Trudeau is reiterating the importance of an orderly immigration system as police investigate the deaths of eight migrants, including two children, in the Mohawk Territory of Akwesasne last week.\nLast month, Canada negot... [804 chars]",
+      "url": "https://www.ctvnews.ca/politics/trudeau-says-orderly-immigration-system-is-needed-after-deaths-of-eight-migrants-1.6340642",
+      "image": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/4/3/justin-trudeau-1-6340651-1680546694455.jpg",
+      "publishedAt": "2023-04-03T18:32:17Z",
+      "source": { "name": "CTV News", "url": "https://www.ctvnews.ca" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Globe and Mail",
-      "title": "Federal budget 2023: Trudeau government expands dental care, bets on green economy - The Globe and Mail",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vY2FuYWRhL2FydGljbGUtY2FuYWRhLWZlZGVyYWwtYnVkZ2V0LTIwMjMv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:09:27Z",
-      "content": null
+      "title": "L’opposition des conservateurs est \" inconcevable \", dit Justin Trudeau",
+      "description": "Le premier ministre Justin Trudeau juge « inconcevable » que le Parti conservateur du Canada « continue de résister » à la mise en place d’un programme national de soins dentaires.",
+      "content": "Désolé, votre navigateur ne supporte pas les videos\n(Ottawa) Le premier ministre Justin Trudeau juge « inconcevable » que le Parti conservateur du Canada « continue de résister » à la mise en place d’un programme national de soins dentaires.\nMichel S... [2093 chars]",
+      "url": "https://www.lapresse.ca/actualites/politique/2023-04-03/soins-dentaires/l-opposition-des-conservateurs-est-inconcevable-dit-justin-trudeau.php",
+      "image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/e9bc1980/7e3046f7db9c3aa2bb7daefb63f9cb56.jpg",
+      "publishedAt": "2023-04-03T18:27:59Z",
+      "source": { "name": "La Presse", "url": "https://www.lapresse.ca" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Reuters.com",
-      "title": "Conviction of 'Serial' podcast subject Adnan Syed reinstated by Maryland court - Reuters.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL21hcnlsYW5kLWFwcGVhbHMtY291cnQtcmVpbnN0YXRlcy1tdXJkZXItY29udmljdGlvbi1zZXJpYWwtcG9kY2FzdC1zdWJqZWN0LXN5ZWQtMjAyMy0wMy0yOC_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:39:00Z",
-      "content": null
+      "title": "Fin des activités de Canada Goose à Boisbriand",
+      "description": "Connue pour ses parkas et ses nombreux manteaux d’hiver, l’entreprise Canada Goose délaisse son usine de Boisbriand ouverte en 2017. Près de 180 employés perdraient leur emploi d’ici le mois de juillet, selon les avis de licenciements collectifs publiés par le ministère du Travail.",
+      "content": "Près de 180 employés perdraient leur emploi d’ici le mois de juillet, selon les avis de licenciements collectifs publiés par le ministère du Travail.\nConnue pour ses parkas et ses nombreux manteaux d’hiver, l’entreprise Canada Goose délaisse son usin... [1353 chars]",
+      "url": "https://www.lapresse.ca/affaires/entreprises/2023-04-03/fin-des-activites-de-canada-goose-a-boisbriand.php",
+      "image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7559fda593d739dbbda5ff094ea10e01.jpg",
+      "publishedAt": "2023-04-03T18:05:40Z",
+      "source": { "name": "La Presse", "url": "https://www.lapresse.ca" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CBC News",
-      "title": "Nashville school shooter obtained guns legally, hid them from parents - CBC News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3dvcmxkL25hc2h2aWxsZS1zaG9vdGluZy1mb290YWdlLTEuNjc5MzMxNNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42NzkzMzE0?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:36:16Z",
-      "content": null
+      "title": "Donald Trump en route vers New York",
+      "description": "L’ancien président américain Donald Trump s’est envolé lundi après-midi vers New York, où il doit être interpellé mardi pour répondre à des accusations criminelles découlant de paiements secrets qu’il aurait effectués à deux femmes pendant sa campagne électorale de 2016.",
+      "content": "(West Palm Beach) L’ancien président américain Donald Trump s’est envolé lundi après-midi vers New York, où il doit être interpellé mardi pour répondre à des accusations criminelles découlant de paiements secrets qu’il aurait effectués à deux femmes ... [1816 chars]",
+      "url": "https://www.lapresse.ca/international/etats-unis/2023-04-03/donald-trump-en-route-vers-new-york.php",
+      "image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/4e78daafbe22380d9993a957d1bb9a1d.jpg",
+      "publishedAt": "2023-04-03T17:57:20Z",
+      "source": { "name": "La Presse", "url": "https://www.lapresse.ca" }
     },
     {
+      "title": "Pandemic Erased Decline in Scripts for Postpartum Opioids",
+      "description": "Filled prescriptions reversed course in March 2020",
+      "content": "A steady downward trend in opioids prescribed to women after giving birth reversed course with the start of the pandemic, a cross-sectional study suggested.\nThe proportion of women with a filled opioid prescription after delivery dropped progressivel... [5106 chars]",
+      "url": "https://www.medpagetoday.com/obgyn/pregnancy/103837",
+      "image": "https://assets.medpagetoday.net/media/images/103xxx/103837.jpg",
+      "publishedAt": "2023-04-03T17:04:45Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Financial Post",
-      "title": "Microsoft unveils OpenAI-based chat tools for fighting cyberattacks - Financial Post",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vdGVjaG5vbG9neS9taWNyb3NvZnQtb3BlbmFpLWNoYXQtdG9vbHMtZmlnaHRpbmctY3liZXJhdHRhY2tz0gGEAWh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vdGVjaG5vbG9neS9taWNyb3NvZnQtb3BlbmFpLWNoYXQtdG9vbHMtZmlnaHRpbmctY3liZXJhdHRhY2tzL3djbS9iMTNkMGM2NS1lYWU4LTQxMWItOTYyMS1hZjU0N2UwOGQ0MmYvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:19:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "Nintendo Reveals New OLED Switch for Tears of the Kingdom, Preorders Start Today - CNET",
-      "description": "A new Zelda adventure means new hardware for fans.",
-      "url": "https://www.cnet.com/tech/gaming/nintendo-reveals-new-oled-switch-for-tears-of-the-kingdom-preorders-start-today/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/f6d899d8331c1b3fe7ed3c46bb63943741033df9/hub/2023/03/28/ec9b4613-902b-4bc7-a115-2b7d7187de6a/screen-shot-2023-03-28-at-2-07-33-pm.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-03-28T19:17:00Z",
-      "content": "Nintendo on Tuesday revealed a new special-edition OLED Switch inspired by the highly anticipated The Legend of Zelda: Tears of the Kingdom. The new console is set to launch April 28, and preorders h… [+851 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Sudbury.com",
-      "title": "Jury deliberations begin in Wright murder trial - Sudbury.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnN1ZGJ1cnkuY29tL2NvdXJ0L2p1cnktZGVsaWJlcmF0aW9ucy1iZWdpbi1pbi13cmlnaHQtbXVyZGVyLXRyaWFsLTY3NzE0MzTSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:45:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Sportsnet.ca",
-      "title": "Maple Leafs’ Acciari day-to-day, ruled out for game vs. Panthers - Sportsnet.ca",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNwb3J0c25ldC5jYS9uaGwvYXJ0aWNsZS9tYXBsZS1sZWFmcy1hY2NpYXJpLWRheS10by1kYXktcnVsZWQtb3V0LWZvci1nYW1lLXZzLXBhbnRoZXJzL9IBYmh0dHBzOi8vd3d3LnNwb3J0c25ldC5jYS9uaGwvbWFwbGUtbGVhZnMtYWNjaWFyaS1kYXktdG8tZGF5LXJ1bGVkLW91dC1mb3ItZ2FtZS12cy1wYW50aGVycy9zbi1hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:14:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CTV News",
-      "title": "Nearly all Canadian adults had COVID antibodies for about half of 2022, most through previous infection: survey - CTV News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5jdHZuZXdzLmNhL2hlYWx0aC9jb3JvbmF2aXJ1cy9uZWFybHktYWxsLWNhbmFkaWFuLWFkdWx0cy1oYWQtY292aWQtYW50aWJvZGllcy1mb3ItYWJvdXQtaGFsZi1vZi0yMDIyLW1vc3QtdGhyb3VnaC1wcmV2aW91cy1pbmZlY3Rpb24tc3VydmV5LTEuNjMzMjQ0ONIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:02:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CBC.ca",
-      "title": "NDP lead over PCs in Manitoba shrinks in latest Probe Research poll - CBC.ca",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tYW5pdG9iYS9tYW5pdG9iYS1tYXJjaC1wcm92aW5jaWFsLXByb2JlLXBvbGwtMS42NzkzNDQw0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjY3OTM0NDA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:43:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CP24",
-      "title": "Doug Ford tells Toronto voters to pick a mayor who 'supports police' - CP24",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5jcDI0LmNvbS9uZXdzL2hlLWxvb2tzLWxpa2UtcGlub2NjaGlvLWNhbmRpZGF0ZXMtc2xhbS1mb3JkLWZvci1pbnRlcmZlcmluZy1pbi10b3JvbnRvLWVsZWN0aW9uLWFmdGVyLXNheWluZy1oZS13b3VsZG4tdC0xLjYzMzI0MTHSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:33:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Ottawa Sun",
-      "title": "GARRIOCH: Enough already! It's time for the Senators to make a deal to move to LeBreton Flats - Ottawa Sun",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikgFodHRwczovL290dGF3YXN1bi5jb20vc3BvcnRzL2hvY2tleS9uaGwvb3R0YXdhLXNlbmF0b3JzL2dhcnJpb2NoLWVub3VnaC1hbHJlYWR5LWl0cy10aW1lLWZvci10aGUtc2VuYXRvcnMtdG8tbWFrZS1hLWRlYWwtdG8tbW92ZS10by1sZWJyZXRvbi1mbGF0c9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:30:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "ABC News",
-      "title": "Gwenyth Paltrow ski accident trial focuses on the biomechanics of skiing - ABC News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CCAiC0NicFdVSG5COF9BmAEB?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:30:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CityNews Vancouver",
-      "title": "Ozempic for weight loss leads to diabetes drug shortage in B.C. - CityNews Vancouver",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdmFuY291dmVyLmNpdHluZXdzLmNhLzIwMjMvMDMvMjgvYmMtZGlhYmV0ZXMtZHJ1Zy1zaG9ydGFnZS1vemVtcGljL9IBT2h0dHBzOi8vdmFuY291dmVyLmNpdHluZXdzLmNhLzIwMjMvMDMvMjgvYmMtZGlhYmV0ZXMtZHJ1Zy1zaG9ydGFnZS1vemVtcGljL2FtcC8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:29:29Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Globe and Mail",
-      "title": "Bianca Andreescu says she's waiting on test results after injuring leg during Miami Open - The Globe and Mail",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vc3BvcnRzL3Rlbm5pcy9hcnRpY2xlLWJpYW5jYS1hbmRyZWVzY3Utc2F5cy1zaGVzLXdhaXRpbmctb24tdGVzdC1yZXN1bHRzLWFmdGVyLWluanVyaW5nLWxlZy_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:28:22Z",
-      "content": null
+        "name": "Medpage Today",
+        "url": "https://www.medpagetoday.com"
+      }
     }
   ],
   "ie": [
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Sunday World",
-      "title": "No jail for couple who threatened shop workers with hammer and racially abused them - Sunday World",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5zdW5kYXl3b3JsZC5jb20vY3JpbWUvY291cnRzL25vLWphaWwtZm9yLWNvdXBsZS13aG8tdGhyZWF0ZW5lZC1zaG9wLXdvcmtlcnMtd2l0aC1oYW1tZXItYW5kLXJhY2lhbGx5LWFidXNlZC10aGVtL2ExMDgwMzM1OTE4Lmh0bWzSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:49:38Z",
-      "content": null
+      "title": "Former army corporal says she was raped while serving overseas",
+      "description": "A retired female Irish army corporal has told Upfront with Katie Hannon that she was raped by a more senior member of the Defence Forces while serving overseas.",
+      "content": "A retired female Irish army corporal says she was raped by a more senior member of the Defence Forces while serving overseas.\nRoslyn O'Callaghan says the attack was carried out by a senior non-commissioned officer while she was serving as a private i... [3829 chars]",
+      "url": "https://www.rte.ie/news/upfront/2023/0403/1373033-former-army-corporal-says-she-was-raped-while-serving-overseas/",
+      "image": "https://img.rasset.ie/001dd132-1600.jpg",
+      "publishedAt": "2023-04-03T19:43:00Z",
+      "source": { "name": "RTE.ie", "url": "https://www.rte.ie" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "RTE.ie",
-      "title": "Gallery: Siopaella owner brings vintage glamour to Georgian home - RTE.ie",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJ0ZS5pZS9saWZlc3R5bGUvbGl2aW5nLzIwMjMvMDMyOC8xMzY2NzU4LWdhbGxlcnktc2lvcGFlbGxhLW93bmVyLWJyaW5ncy12aW50YWdlLWdsYW1vdXItdG8tZ2VvcmdpYW4taG9tZS_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T20:01:44Z",
-      "content": null
+      "title": "While others ponder Munster's future, they have to get better right now",
+      "description": "Graham Rowntree’s side repeatedly shot themselves in the foot against the Sharks.",
+      "content": "WHILE THE OTHERS ponder how Munster can start closing the gap to the best teams in the Champions Cup and URC next season, Graham Rowntree and the squad themselves have more urgent matters to deal with.\nAlthough they’re out of the Champions Cup after ... [7404 chars]",
+      "url": "https://www.the42.ie/munster-sharks-urc-6024947-Apr2023/",
+      "image": "https://img2.thejournal.ie/article/6024947/river/?height=400&version=6036061",
+      "publishedAt": "2023-04-03T19:00:51Z",
+      "source": { "name": "The42", "url": "https://www.the42.ie" }
     },
     {
+      "title": "Ian Bailey denies being over drink-drive limit on Sunday",
+      "description": "'I thought he said ‘you have been driving erotically’,' Mr Bailey said of his interaction with a West Cork garda on the night",
+      "content": "Ian Bailey has insisted he was not over the limit when he was arrested on suspicion of drink-driving in West Cork on Sunday night.\nThe poet and writer said he attempted to provide a roadside breath test on three occasions but that the machine may hav... [2225 chars]",
+      "url": "https://www.irishexaminer.com/news/munster/arid-41108491.html",
+      "image": "https://www.irishexaminer.com/cms_media/module_img/7007/3503884_11_seoimageog_dan_20ianb_209.jpg",
+      "publishedAt": "2023-04-03T16:55:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Irish Times",
-      "title": "Right-wing extremist jailed for possession of weapons parts and images of child abuse - The Irish Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5pcmlzaHRpbWVzLmNvbS9jcmltZS1sYXcvY291cnRzLzIwMjMvMDMvMjgvcmlnaHQtd2luZy1leHRyZW1pc3QtamFpbGVkLWZvci1wb3NzZXNzaW9uLW9mLXdlYXBvbnMtcGFydHMtYW5kLTNkLXByaW50aW5nLW1hbnVhbC_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:58:43Z",
-      "content": null
+        "name": "Irish Examiner",
+        "url": "https://www.irishexaminer.com"
+      }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Sunday World",
-      "title": "Cancer-faking fraudster given final warning to repay £2m or face more jail time - Sunday World",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5zdW5kYXl3b3JsZC5jb20vY3JpbWUvY291cnRzL2NhbmNlci1mYWtpbmctZnJhdWRzdGVyLWdpdmVuLWZpbmFsLXdhcm5pbmctdG8tcmVwYXktMm0tb3ItZmFjZS1tb3JlLWphaWwtdGltZS9hMTY2MzE0Mzk1MS5odG1s0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:39:06Z",
-      "content": null
+      "title": "NASA names first woman astronaut for lunar mission",
+      "description": "NASA has named the first woman and the first African American person ever assigned as astronauts to a lunar mission, introducing them as part of the four-member team chosen to fly as early as next year on what would be the first crewed voyage around the moon in more than 50 years.",
+      "content": "NASA has named the first woman and the first African American person ever assigned as astronauts to a lunar mission, introducing them as part of the four-member team chosen to fly as early as next year on what would be the first crewed voyage around ... [1098 chars]",
+      "url": "https://www.rte.ie/news/world/2023/0403/1369016-nasa/",
+      "image": "https://img.rasset.ie/001dcd12-1600.jpg",
+      "publishedAt": "2023-04-03T16:27:57Z",
+      "source": { "name": "RTE.ie", "url": "https://www.rte.ie" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "RTE.ie",
-      "title": "Prince Harry: Press intrusion on holiday 'terrifying' - RTE.ie",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJ0ZS5pZS9lbnRlcnRhaW5tZW50LzIwMjMvMDMyOC8xMzY2OTAxLXByaW5jZS1oYXJyeS1wcmVzcy1pbnRydXNpb24tb24taG9saWRheS10ZXJyaWZ5aW5nL9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T19:24:01Z",
-      "content": null
+      "title": "Met Eireann says 2023 had the wettest March in Ireland's recorded history",
+      "description": "The average rainfall was 169% more than the long term average",
+      "content": "Something went wrong, please try again later.\nInvalid email Something went wrong, please try again later.\nNever miss a beat from Dublin and beyond by signing up to our FREE newsletter\nMarch 2023 was the wettest in Ireland's recorded history according... [1431 chars]",
+      "url": "https://www.dublinlive.ie/news/dublin-news/met-eireann-says-2023-wettest-26623987",
+      "image": "https://i2-prod.dublinlive.ie/incoming/article26624075.ece/ALTERNATES/s1200/0_CC-RAIN-AND-WIND5.jpg",
+      "publishedAt": "2023-04-03T16:23:04Z",
+      "source": { "name": "Dublin Live", "url": "https://www.dublinlive.ie" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "TechCrunch",
-      "title": "Apple tvOS 16.4 update gives light-sensitive users a ‘Dim Flashing Lights’ feature - TechCrunch",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyMy8wMy8yOC9hcHBsZS10dm9zLTE2LTQtdXBkYXRlLWRpbS1mbGFzaGluZy1saWdodHMtZmVhdHVyZS_SAVlodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjMvMDMvMjgvYXBwbGUtdHZvcy0xNi00LXVwZGF0ZS1kaW0tZmxhc2hpbmctbGlnaHRzLWZlYXR1cmUvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:57:55Z",
-      "content": null
+      "title": "High Court rules doctors do not have to amputate man's leg against his wishes",
+      "description": "The judge said that the case was “problematic” due to a lack of clarity regarding the man’s capacity to make any decision about his health.",
+      "content": "THE PRESIDENT OF the High Court has said that medical staff treating an elderly man with dementia who would “rather die” that have his severely infected leg amputated have been placed in an “appalling dilemma”.\nThe remarks were made by High Court Pre... [5148 chars]",
+      "url": "https://www.thejournal.ie/high-court-case-doctors-man-leg-amputation-6035736-Apr2023/",
+      "image": "https://img2.thejournal.ie/article/6035736/river/?height=400&version=6035758",
+      "publishedAt": "2023-04-03T15:37:37Z",
+      "source": { "name": "TheJournal.ie", "url": "https://www.thejournal.ie" }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "IGN",
-      "title": "Tears of the Kingdom Switch OLED Preorders Are Now Available - IGN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvdGVhcnMtb2YtdGhlLWtpbmdkb20tc3dpdGNoLW9sZWQtcHJlb3JkZXItZ3VpZGXSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:49:56Z",
-      "content": null
+      "title": "How much of Ireland is actually made up of peatland?",
+      "description": "There is approximately 1.5 million hectares of peatland in Ireland, but it is difficult to know the actual amount for certain",
+      "content": "Analysis: there is approximately 1.5 million hectares of peatland in Ireland, but it is difficult to know the actual amount for certain\nPeat is a soil that is made up of partially decayed vegetation. It forms in wetland areas where the waterlogged en... [5033 chars]",
+      "url": "https://www.rte.ie/brainstorm/2023/0403/1367931-ireland-peatland-bogs-measurement-survey/",
+      "image": "https://img.rasset.ie/0013016e-1600.jpg",
+      "publishedAt": "2023-04-03T14:40:52Z",
+      "source": { "name": "RTE.ie", "url": "https://www.rte.ie" }
     },
     {
+      "title": "Limerick research could make the medicine go down more easily",
+      "description": "LIMERICK research could improve access to a drug used in the treatment of a tropical disease affecting millions worldwide.",
+      "content": "RESEARCHERS at the University of Limerick have shown that crystal engineering can improve access to a drug used in the treatment of a tropical disease affecting millions worldwide.\nThe findings, which could also have a significant impact in making me... [2236 chars]",
+      "url": "https://www.limerickpost.ie/2023/04/03/limerick-research-could-make-the-medicine-go-down-more-easily/",
+      "image": "https://www.limerickpost.ie/site/wp-content/uploads/2023/04/Dr-Matteo-Lusi-UL-scaled.jpg",
+      "publishedAt": "2023-04-03T14:06:33Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "BreakingNews.ie",
-      "title": "Attacker who went on rampage at Nashville school legally owned seven guns - BreakingNews.ie",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS93b3JsZC9hdHRhY2tlci13aG8td2VudC1vbi1yYW1wYWdlLWF0LW5hc2h2aWxsZS1zY2hvb2wtbGVnYWxseS1vd25lZC1zZXZlbi1ndW5zLTE0NTQ4MzUuaHRtbNIBfGh0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9hbXAvd29ybGQvYXR0YWNrZXItd2hvLXdlbnQtb24tcmFtcGFnZS1hdC1uYXNodmlsbGUtc2Nob29sLWxlZ2FsbHktb3duZWQtc2V2ZW4tZ3Vucy0xNDU0ODM1Lmh0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:14:26Z",
-      "content": null
+        "name": "Limerick Post",
+        "url": "https://www.limerickpost.ie"
+      }
     },
     {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Irish News ",
-      "title": "Cosmic explosion that blinded space instruments 'may be the brightest ever seen' - The Irish News ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5pcmlzaG5ld3MuY29tL25ld3MvdWtuZXdzLzIwMjMvMDMvMjgvbmV3cy9jb3NtaWNfZXhwbG9zaW9uX3RoYXRfYmxpbmRlZF9zcGFjZV9pbnN0cnVtZW50c19tYXlfYmVfdGhlX2JyaWdodGVzdF9ldmVyX3NlZW5fLTMxNzAxMzcv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:06:09Z",
-      "content": null
+      "title": "Chelsea interim coach hails Potter's \"amazing job\"",
+      "description": "Chelsea need to keep moving ahead one step at a time after the sacking of manager Graham Potter, interim coach Bruno Saltor said as he bids to engineer a turnaround in fortunes for the Premier League club.",
+      "content": "Chelsea need to keep moving ahead one step at a time after the sacking of manager Graham Potter, interim coach Bruno Saltor said as he bids to engineer a turnaround in fortunes for the Premier League club.\nPotter was dismissed on Sunday after a strin... [1956 chars]",
+      "url": "https://www.rte.ie/sport/soccer/2023/0403/1367983-chelsea-interim-coach-hails-potters-amazing-job/",
+      "image": "https://img.rasset.ie/001d2220-1600.jpg",
+      "publishedAt": "2023-04-03T13:59:23Z",
+      "source": { "name": "RTE.ie", "url": "https://www.rte.ie" }
     },
     {
+      "title": "Limerick man who died after alleged assault outside pub suffered fatal brain injury",
+      "description": "Inquest into death of Dylan McCarthy, 29, from Kilmallock was adjourned on basis criminal proceedings in the case have already been instituted",
+      "content": "A Limerick man who suffered fatal injuries during an incident outside a pub in Co Kildare last year died from a brain haemorrhage, an inquest has heard.\nDylan McCarthy, 29, of Ardvullen, Kilmallock, Co Limerick, was pronounced dead at Tallaght Univer... [4263 chars]",
+      "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41108266.html",
+      "image": "https://www.irishexaminer.com/cms_media/module_img/7006/3503248_5_seoimageog_IMG-20220822-WA0016_20_1_.jpg",
+      "publishedAt": "2023-04-03T13:47:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Limerick Post",
-      "title": "Limerick hurler appeals jail sentence for committing perjury - Limerick Post",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmxpbWVyaWNrcG9zdC5pZS8yMDIzLzAzLzI4L2xpbWVyaWNrLWh1cmxlci1hcHBlYWxzLWphaWwtc2VudGVuY2UtZm9yLWNvbW1pdHRpbmctcGVyanVyeS_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:05:38Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "BreakingNews.ie",
-      "title": "Phillip Schofield's brother 'emotionally blackmailed sex abuse victim', court told - BreakingNews.ie",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS93b3JsZC9waGlsbGlwLXNjaG9maWVsZC1icm90aGVyLWVtb3Rpb25hbGx5LWJsYWNrbWFpbGVkLXNleC1hYnVzZS12aWN0aW0tY291cnQtdG9sZC0xNDU0ODIyLmh0bWzSAYABaHR0cHM6Ly93d3cuYnJlYWtpbmduZXdzLmllL2FtcC93b3JsZC9waGlsbGlwLXNjaG9maWVsZC1icm90aGVyLWVtb3Rpb25hbGx5LWJsYWNrbWFpbGVkLXNleC1hYnVzZS12aWN0aW0tY291cnQtdG9sZC0xNDU0ODIyLmh0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T18:00:21Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "BreakingNews.ie",
-      "title": "Gang rape trial begins hearing closing speeches - BreakingNews.ie",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9pcmVsYW5kL2dhbmctcmFwZS10cmlhbC1iZWdpbnMtaGVhcmluZy1jbG9zaW5nLXNwZWVjaGVzLTE0NTQ4MDQuaHRtbNIBZGh0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9hbXAvaXJlbGFuZC9nYW5nLXJhcGUtdHJpYWwtYmVnaW5zLWhlYXJpbmctY2xvc2luZy1zcGVlY2hlcy0xNDU0ODA0Lmh0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:57:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Irish Times",
-      "title": "Enoch Burke did not object to earlier request in relation to transitioning student, court told - The Irish Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5pcmlzaHRpbWVzLmNvbS9jcmltZS1sYXcvY291cnRzLzIwMjMvMDMvMjgvZW5vY2gtYnVya2UtZGlkLW5vdC1vYmplY3QtdG8tZWFybGllci1yZXF1ZXN0LWluLXJlbGF0aW9uLXRvLXRyYW5zaXRpb25pbmctc3R1ZGVudC1jb3VydC10b2xkL9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:37:30Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "GAA.ie",
-      "title": "Referees appointed for Allianz Football League Finals - GAA.ie",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmdhYS5pZS9uZXdzL3JlZmVyZWVzLWFwcG9pbnRlZC1mb3ItYWxsaWFuei1mb290YmFsbC1sZWFndWUtZmluYWxzLXg3NzY4L9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:24:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "RTE.ie",
-      "title": "Medium-risk adults don't need extra Covid jabs - WHO - RTE.ie",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnJ0ZS5pZS9uZXdzL2Nvcm9uYXZpcnVzLzIwMjMvMDMyOC8xMzY2ODc0LXdoby1jb3ZpZC12YWNjaW5lcy_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T17:18:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The42",
-      "title": "Ireland stars return as Munster name 28-man squad for Champions Cup trip to Sharks - The42",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnRoZTQyLmllL211bnN0ZXItc3F1YWQtc2hhcmtzLTYwMzEyMTYtTWFyMjAyMy_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T16:34:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "EchoLive.ie",
-      "title": "Prosecution in Frankie Dunne murder trial: 'Two people went in to Castlegreine House that night...only the accused came out' - EchoLive.ie",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmVjaG9saXZlLmllL2NvcmtuZXdzL2FyaWQtNDExMDM5OTEuaHRtbNIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T16:31:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Dublin Live",
-      "title": "Dublin pubs: Secret flat underneath well-known bar surprises patrons - Dublin Live",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmR1YmxpbmxpdmUuaWUvbmV3cy9kdWJsaW4tbmV3cy9kdWJsaW4tcHVicy1zZWNyZXQtZmxhdC11bmRlcm5lYXRoLTI2NTc5NTQ40gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T16:00:36Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "BBC",
-      "title": "Irish Defence Forces: Women \"barely tolerated\", says report - BBC",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZTc0M3BndzdyMG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2U3NDNwZ3c3cjBvLmFtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T15:53:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Dazed",
-      "title": "Giant 'holes' are appearing in the sun – what do they mean for our planet? - Dazed",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmRhemVkZGlnaXRhbC5jb20vbGlmZS1jdWx0dXJlL2FydGljbGUvNTk1NDQvMS9naWFudC1jb3JvbmFsLWhvbGVzLXN1bi1zb2xhci13aW5kcy13aGF0LWRvLXRoZXktbWVhbtIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-28T15:35:00Z",
-      "content": null
+        "name": "Irish Examiner",
+        "url": "https://www.irishexaminer.com"
+      }
     }
   ]
 }

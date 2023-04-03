@@ -9,13 +9,6 @@ export const Home: React.FC = () => {
           Welcome to our news app! Stay informed with the latest headlines and
           stories from around the world.
         </p>
-
-        <p>
-          <b>
-            Version deployed on gh-pages uses dummy data - on localhost, NewsAPI
-            correctly provides news.
-          </b>
-        </p>
       </div>
     </main>
   );

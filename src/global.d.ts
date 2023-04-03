@@ -7,15 +7,15 @@ declare module "*.png";
 declare module "*.jpeg";
 
 type Article = {
+  title: string;
+  description: string | null;
+  content: string | null;
+  url: string;
+  image: string | null;
+  publishedAt: string;
+
   source: {
-    id: string | null;
+    url: string | null;
     name: string | null;
   };
-  author: string | null;
-  title: string | null;
-  description: string | null;
-  url: string;
-  urlToImage: string | null;
-  publishedAt: string;
-  content: string | null;
 };

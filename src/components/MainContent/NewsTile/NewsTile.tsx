@@ -9,7 +9,7 @@ type Props = {
 
 export const NewsTile: React.FC<Props> = ({ view, article, open }) => {
   const current_view = view;
-  const { source, title, description, publishedAt, urlToImage } = article;
+  const { source, title, description, publishedAt, image } = article;
 
   return (
     <article
@@ -17,9 +17,12 @@ export const NewsTile: React.FC<Props> = ({ view, article, open }) => {
       className={css[`news--${current_view}`]}
     >
       <img
+        onError={(e) => {
+          setDefaultImage(e);
+        }}
         className={css[`picture--${current_view}`]}
-        src={urlToImage ? urlToImage : balon}
-        alt="balon"
+        src={image ? image : balon}
+        alt={title}
       />
       <p className={css.title}>{title}</p>
 
@@ -32,4 +35,8 @@ export const NewsTile: React.FC<Props> = ({ view, article, open }) => {
       </div>
     </article>
   );
+};
+
+const setDefaultImage = (e: React.SyntheticEvent<HTMLImageElement, Event>) => {
+  (e.target as HTMLImageElement).src = balon;
 };
