@@ -1,10 +1,15 @@
 import css from "./MainContent.module.css";
-import { useState, useEffect } from "react";
-import { useSelector, useDispatch } from "react-redux";
+
+import type { AppDispatch } from "../../reduxtkt/store";
 import type { RootState } from "../../reduxtkt/store";
 
-import { getCountryNews } from "../../services/api";
+import { useState, useEffect } from "react";
+import { useSelector, useDispatch } from "react-redux";
+import { setQuantity } from "../../reduxtkt/quantity/quantitySlice";
+
 import Modal from "react-modal";
+
+import { getCountryNews } from "../../services/api";
 
 import { NewsTile } from "./NewsTile/NewsTile";
 import { Spinner } from "./Spinner/Spinner";
@@ -25,7 +30,7 @@ export const MainContent: React.FC<Props> = ({ country, name }) => {
   const [currentArticle, setCurrentArticle] = useState(dummyArticle);
 
   const current_view = useSelector((state: RootState) => state.view);
-  const dispatch = useDispatch();
+  const dispatch: AppDispatch = useDispatch();
 
   const openModal: any = (article: Article) => {
     setCurrentArticle(article);
@@ -40,6 +45,10 @@ export const MainContent: React.FC<Props> = ({ country, name }) => {
     getCountryNews(country, dispatch).then((articles) => {
       setNews(articles);
     });
+    return () => {
+      setNews(0);
+      dispatch(setQuantity(0));
+    };
   }, [country, dispatch]);
 
   const generateNewsTile = (view: string, news: [Article] | number) => {

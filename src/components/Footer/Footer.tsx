@@ -14,7 +14,9 @@ export function Footer() {
         <div className={css.clock}>
           <Clock />
         </div>
-        <div className={css.info}>Found {quantity.value} relevant news</div>
+        <div className={css.info}>
+          {quantity.value ? `Found ${quantity.value} relevant news` : ""}
+        </div>
       </div>
     </footer>
   );

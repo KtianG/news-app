@@ -23,6 +23,7 @@ export async function getCountryNews(
 
   try {
     const news = await axios.get(BASE_URL, { params: parameters });
+    console.log(news);
     dispatch(setQuantity(news.data.totalResults));
     return news.data.articles;
   } catch (error) {
