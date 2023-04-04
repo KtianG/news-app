@@ -23,23 +23,14 @@ type Props = {
 };
 
 export const MainContent: React.FC<Props> = ({ country, name }) => {
-  const [news, setNews] = useState(0);
-  const [modalState, setModalState] = useState(false);
-
-  const dummyArticle: Article = dummyArticles.us[0];
-  const [currentArticle, setCurrentArticle] = useState(dummyArticle);
+  const [news, setNews] = useState<Article[] | number>(0);
+  const [modalState, setModalState] = useState<boolean>(false);
+  const [currentArticle, setCurrentArticle] = useState<Article>(
+    dummyArticles.us[0]
+  );
 
   const current_view = useSelector((state: RootState) => state.view);
   const dispatch: AppDispatch = useDispatch();
-
-  const openModal: any = (article: Article) => {
-    setCurrentArticle(article);
-    setModalState(true);
-  };
-
-  const closeModal = () => {
-    setModalState(false);
-  };
 
   useEffect(() => {
     getCountryNews(country, dispatch).then((articles) => {
@@ -51,15 +42,26 @@ export const MainContent: React.FC<Props> = ({ country, name }) => {
     };
   }, [country, dispatch]);
 
-  const generateNewsTile = (view: string, news: [Article] | number) => {
+  const openModal = (article: Article) => {
+    setCurrentArticle(article);
+    setModalState(true);
+  };
+
+  const closeModal = () => {
+    setModalState(false);
+  };
+
+  const generateNewsTile = (view: string, news: Article[] | number) => {
     if (typeof news === "number") {
       return;
     }
+
     const layout = news.map((article, index) => {
       return (
         <NewsTile key={index} view={view} article={article} open={openModal} />
       );
     });
+
     return layout;
   };
 
