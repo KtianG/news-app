@@ -10,7 +10,7 @@ const initialState: viewState = {
 };
 
 export const viewSlice = createSlice({
-  name: "counter",
+  name: "view",
   initialState,
   reducers: {
     changeView: (state, action: PayloadAction<string>) => {
